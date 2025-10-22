@@ -1,0 +1,156 @@
+{
+  "LanguageDetection": {
+    "title": "Language Suggestion",
+    "description": "We noticed your browser language differs from the current site language. You can switch languages anytime 👉",
+    "countdown": "Closing in {countdown} seconds"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} All rights reserved.",
+    "PrivacyPolicy": "Privacy Policy",
+    "TermsOfService": "Terms of Service",
+    "Links": {
+      "groups": [
+        {
+          "title": "Products",
+          "links": [
+            {
+              "href": "/",
+              "name": "Sleep Calculator"
+            }
+          ]
+        },
+        {
+          "title": "Support",
+          "links": [
+            {
+              "href": "mailto:hi@calculatorsleep.org",
+              "name": "Contact Us"
+            }
+          ]
+        },
+        {
+          "title": "Languages",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/ko",
+              "name": "한국어",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ms",
+              "name": "Bahasa Melayu",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            },
+            
+             {"href": "/ru",
+              "name": "Русский",
+              "useA": true
+            },{"href": "/ar",
+              "name": "العربية",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Calculadora de Sueño",
+    "tagLine": "Calculadora Profesional de Ciclos de Sueño para Cada Necesidad",
+    "description": "Calculadora completa de ciclos de sueño - calculadora de hora ideal para dormir, calculadora de hora de despertar, duración del sueño por edad y herramientas de optimización del sueño. Perfecto para mejor calidad de sueño, optimización del horario de sueño y hábitos saludables de sueño.",
+    "pageData": {
+      "tagLine": "Calculadora Profesional de Ciclos de Sueño para Cada Necesidad",
+      "description": "Calculadora completa de ciclos de sueño - calculadora de hora ideal para dormir, calculadora de hora de despertar, duración del sueño por edad y herramientas de optimización del sueño. Perfecto para mejor calidad de sueño, optimización del horario de sueño y hábitos saludables de sueño."
+    }
+  },
+  "Blogs": {
+    "title": "Blog de Calculadora de Sueño",
+    "description": "Descubre las últimas funciones, consejos y actualizaciones sobre la Calculadora de Sueño - tu plataforma definitiva de optimización del sueño.",
+    "emptyState": {
+      "title": "No hay publicaciones de blog",
+      "description": "¡Estamos creando contenido emocionante sobre optimización del sueño, mantente atento!"
+    },
+    "loadMorePostsFailed": "Error al cargar más publicaciones",
+    "loadMorePosts": "Cargando más publicaciones...",
+    "filterPostsFailed": "Error al cargar publicaciones",
+    "noPostsFoundForThisTag": "No se encontraron artículos para esta categoría",
+    "reachedTheEnd": "Has llegado al final de todas las publicaciones",
+    "BlogDetail": {
+      "featured": "Publicación Destacada",
+      "accessRestricted": "Acceso Restringido",
+      "unauthorized": "Este artículo solo está disponible para usuarios registrados",
+      "premium": "Contenido Premium",
+      "premiumContent": "Este artículo es exclusivo para suscriptores",
+      "signIn": "Iniciar Sesión",
+      "upgrade": "Actualizar",
+      "backToBlogs": "Volver a la Lista de Blog",
+      "notFound": "Artículo No Encontrado"
+    }
+  },
+  "TermsOfService": {
+    "title": "Terms of Service",
+    "description": "Terms of Service"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "description": "Privacy Policy"
+  }
+}

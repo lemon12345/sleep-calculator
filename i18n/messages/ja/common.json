@@ -1,0 +1,156 @@
+{
+  "LanguageDetection": {
+    "title": "Language Suggestion",
+    "description": "We noticed your browser language differs from the current site language. You can switch languages anytime 👉",
+    "countdown": "Closing in {countdown} seconds"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} All rights reserved.",
+    "PrivacyPolicy": "Privacy Policy",
+    "TermsOfService": "Terms of Service",
+    "Links": {
+      "groups": [
+        {
+          "title": "Products",
+          "links": [
+            {
+              "href": "/",
+              "name": "睡眠計算機"
+            }
+          ]
+        },
+        {
+          "title": "Support",
+          "links": [
+            {
+              "href": "mailto:hi@calculatorsleep.org",
+              "name": "Contact Us"
+            }
+          ]
+        },
+        {
+          "title": "Languages",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/ko",
+              "name": "한국어",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ms",
+              "name": "Bahasa Melayu",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            },
+            
+             {"href": "/ru",
+              "name": "Русский",
+              "useA": true
+            },{"href": "/ar",
+              "name": "العربية",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "睡眠計算機",
+    "tagLine": "あらゆるニーズに対応するプロフェッショナルな睡眠サイクル計算機",
+    "description": "完全な睡眠サイクル計算機 - 理想的な就寝時間計算機、起床時間計算機、年齢別睡眠時間、睡眠最適化ツール。睡眠の質向上、睡眠スケジュール最適化、健康的な睡眠習慣に最適です。",
+    "pageData": {
+      "tagLine": "あらゆるニーズに対応するプロフェッショナルな睡眠サイクル計算機",
+      "description": "完全な睡眠サイクル計算機 - 理想的な就寝時間計算機、起床時間計算機、年齢別睡眠時間、睡眠最適化ツール。睡眠の質向上、睡眠スケジュール最適化、健康的な睡眠習慣に最適です。"
+    }
+  },
+  "Blogs": {
+    "title": "睡眠計算機ブログ",
+    "description": "睡眠計算器の最新機能、ヒント、更新を発見 - あなたの究極の睡眠最適化プラットフォーム。",
+    "emptyState": {
+      "title": "ブログ記事がありません",
+      "description": "睡眠最適化に関するエキサイティングなコンテンツを作成中です。お楽しみに！"
+    },
+    "loadMorePostsFailed": "追加の記事の読み込みに失敗しました",
+    "loadMorePosts": "追加の記事を読み込み中...",
+    "filterPostsFailed": "記事の読み込みに失敗しました",
+    "noPostsFoundForThisTag": "このカテゴリの記事が見つかりません",
+    "reachedTheEnd": "すべての記事の最後に到達しました",
+    "BlogDetail": {
+      "featured": "おすすめ記事",
+      "accessRestricted": "アクセス制限",
+      "unauthorized": "この記事はログインユーザーのみ利用可能です",
+      "premium": "プレミアムコンテンツ",
+      "premiumContent": "この記事は購読者のみ限定です",
+      "signIn": "サインイン",
+      "upgrade": "アップグレード",
+      "backToBlogs": "ブログリストに戻る",
+      "notFound": "記事が見つかりません"
+    }
+  },
+  "TermsOfService": {
+    "title": "Terms of Service",
+    "description": "Terms of Service"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "description": "Privacy Policy"
+  }
+}

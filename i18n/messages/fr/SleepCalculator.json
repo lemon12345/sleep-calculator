@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Calculateur de Sommeil",
+    "description": "Utilisez notre calculateur de cycles de sommeil pour trouver votre heure idéale de coucher et de réveil. Découvrez la durée de sommeil recommandée selon votre âge, optimisez votre emploi du temps de sommeil et réveillez-vous en pleine forme grâce à une durée de sommeil parfaite pour chaque groupe d'âge.",
+    "wakeUpTimeQuestion": "Entrez votre heure de réveil souhaitée",
+    "bedTimeQuestion": "Vous allez vous coucher maintenant ?",
+    "calculateBedtime": "Calculer l'heure de coucher idéale",
+    "calculateWakeUp": "Calculer l'heure de réveil optimale",
+    "fallAsleepTime": "L'être humain moyen met 15 minutes pour s'endormir.",
+    "bedtimeResult": "Pour vous réveiller frais à {time}, vous devez vous coucher à l'une des heures suivantes :",
+    "wakeupResult": "Si vous vous couchez maintenant, vous devriez essayer de vous réveiller à l'une des heures suivantes :",
+    "suggestedTimes": "Suggestée",
+    "explanation": "Si vous vous réveillez à l'une de ces heures, vous vous lèverez entre les cycles de sommeil de 90 minutes. Un bon sommeil nocturne consiste en 5-6 cycles de sommeil complets.",
+    "goBack": "Retour"
+  },
+  "features": {
+    "title": "Calculateur de Cycles de Sommeil : Comment ça marche",
+    "subtitle": "Un calculateur de cycles de sommeil est une formule simple qui vous aide à planifier combien de sommeil vous avez besoin pour vous sentir rafraîchi. Tout ce dont vous avez besoin est votre heure de réveil désirée. Voici comment ça marche :",
+    "cycle90Minutes": "Un cycle de sommeil moyen dure environ 90 minutes.",
+    "fiveCycles": "Une nuit typique comprend 5 cycles de sommeil complets, ce qui équivaut à 7,5 heures de sommeil (90 × 5 = 450 minutes).",
+    "countBack": "Pour trouver votre heure de coucher idéale, commencez par votre heure de réveil et comptez 7,5 heures en arrière.",
+    "example": "Exemple : Si vous devez vous réveiller à 6h00 du matin, votre heure de coucher idéale serait vers 22h30. C'est le moment où vous devriez être au lit, prêt à dormir.",
+    "adjustment": "Ce calcul est un point de départ car les cycles de sommeil de chacun peuvent varier légèrement. Essayez cette heure de coucher pendant une semaine et ajustez au besoin :",
+    "tooEarly": "Si vous vous réveillez trop tôt (plus de 5-10 minutes avant votre réveil), repoussez votre heure de coucher légèrement.",
+    "sleepThrough": "Si vous dormez encore à travers votre réveil après une semaine, avancez votre heure de coucher.",
+    "increments": "Faites des ajustements par incréments de 15 minutes jusqu'à ce que vous vous réveilliez naturellement juste avant votre réveil.",
+    "optimization": "En suivant cette méthode, vous pouvez optimiser votre sommeil, vous réveiller rafraîchi et tirer le meilleur parti de votre repos nocturne."
+  },
+  "useCases": {
+    "title": "Sommeil Recommandé par Âge - Aperçus du Calculateur de Cycles de Sommeil",
+    "subtitle": "La quantité de sommeil dont vous avez besoin varie selon plusieurs facteurs, y compris l'âge, la génétique, le mode de vie et les niveaux d'activité quotidiens. Utiliser un calculateur de cycles de sommeil peut vous aider à planifier votre heure de coucher et de réveil selon vos besoins personnels de sommeil.",
+    "authoritiesNote": "Les autorités sanitaires, comme l'American Academy of Sleep Medicine (AASM), fournissent des directives générales de sommeil pour tous les groupes d'âge basées sur la recherche scientifique et les connaissances d'experts.",
+    "ageGroup": "Groupe d'Âge",
+    "recommendedSleep": "Quantité de Sommeil Recommandée",
+    "infant": "Bébé (4-12 mois)",
+    "toddler": "Tout-petit (1-2 ans)",
+    "preschool": "Âge préscolaire (3-5 ans)",
+    "schoolAge": "Âge scolaire (6-12 ans)",
+    "teen": "Adolescent (13-18 ans)",
+    "adult": "Adulte (18+ ans)",
+    "howToUseTitle": "Comment utiliser ceci avec un Calculateur de Cycles de Sommeil :",
+    "step1": "Combinnez vos exigences de sommeil spécifiques à l'âge avec un calculateur de cycles de sommeil pour trouver votre heure de couchel et de réveil idéale.",
+    "step2": "Les adultes devraient viser au moins 7 heures de sommeil, idéalement en complétant des cycles de sommeil complets de 90 minutes.",
+    "step3": "Les enfants et adolescents ont besoin de plus de sommeil pour soutenir la croissance, l'apprentissage et une santé optimale, alors planifiez les heures de coucher en conséquence.",
+    "tracking": "Suivre votre sommeil en utilisant cette méthode peut vous aider à vous réveiller frais et énergisé, tout en assurant une durée de sommeil suffisante par âge.",
+    "infantHours": "12-16 heures",
+    "toddlerHours": "11-14 heures",
+    "preschoolHours": "10-13 heures",
+    "schoolAgeHours": "9-12 heures",
+    "teenHours": "8-10 heures",
+    "adultHours": "Au moins 7 heures"
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "description": "Trouvez des réponses aux questions fréquemment posées sur l'utilisation de notre calculateur de sommeil à diverses fins.",
+    "question1": "À quelle heure devrais-je me réveiller ?",
+    "answer1": "Vous devriez viser à vous réveiller à la fin d'un cycle de sommeil de 90 minutes. Utilisez notre calculateur pour trouver les meilleures heures de réveil afin de vous sentir frais au lieu d'étourdi.",
+    "question2": "À quelle heure devrais-je me coucher ?",
+    "answer2": "Votre heure de coucher dépend du moment où vous prévoyez vous réveiller. Entrez votre heure de réveil dans le calculateur, et il suggérera plusieurs heures de coucher basées sur des cycles de sommeil naturels.",
+    "question3": "Combien de sommeil ai-je besoin dans le calculateur ?",
+    "answer3": "La plupart des adultes ont besoin de 7-9 heures de sommeil. Notre calculateur vous aide à planifier autour des cycles de sommeil, pas seulement les heures, afin de vous réveiller au bon stade du sommeil.",
+    "question4": "Si je me couche à 10h du matin, à quelle heure me réveillerai-je ?",
+    "answer4": "Si vous vous couchez à 10h du matin, le calculateur peut vous montrer les meilleures heures de réveil basées sur des cycles complets. Par exemple, 11h45 du matin, 13h15, 14h45, et ainsi de suite.",
+    "question5": "À quelle heure devrais-je dormir pour me réveiller à 6h ?",
+    "answer5": "Pour vous réveiller à 6h du matin, les heures de coucher idéales seraient vers 20h45, 22h15, ou 23h45 la nuit précédente. Ces heures s'alignent avec des cycles de sommeil complets."
+  },
+  "time": {
+    "am": "AM",
+    "pm": "PM"
+  }
+}

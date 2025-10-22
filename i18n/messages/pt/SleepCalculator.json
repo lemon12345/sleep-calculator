@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "title": "Calculadora de Sono",
+    "description": "Use nossa calculadora de ciclos de sono para encontrar seu horário ideal de dormir e acordar. Descubra o sono recomendado por idade, otimize sua programação de sono e acorde revigorado com a duração perfeita do sono para cada faixa etária.",
+    "wakeUpTimeQuestion": "Digite Seu Horário Desejado de Despertar",
+    "bedTimeQuestion": "Indo Dormir Agora?",
+    "calculateBedtime": "Calcular Horário Ideal de Dormir",
+    "calculateWakeUp": "Calcular Horário Ótimo de Despertar",
+    "bedtimeTitle": "Horário de Dormir",
+    "wakeupTitle": "Horário de Despertar",
+    "fallAsleepTime": "O ser humano médio leva 15 minutos para adormecer.",
+    "bedtimeResult": "Para acordar revigorado às {time}, você precisa dormir em um dos seguintes horários:",
+    "wakeupResult": "Se você for dormir agora, deve tentar acordar em um dos seguintes horários:",
+    "suggestedTimes": "Sugeridos",
+    "explanation": "Se você acordar em um desses horários, você se levantará entre ciclos de sono de 90 minutos. Uma boa noite de sono consiste em 5-6 ciclos completos de sono.",
+    "goBack": "Voltar"
+  },
+  "features": {
+    "title": "Calculadora de Ciclos de Sono: Como Funciona",
+    "subtitle": "Uma calculadora de ciclos de sono é uma fórmula simples que ajuda você a planejar quanto sono precisa para se sentir revigorado. Tudo que você precisa é seu horário desejado de despertar. Aqui está como funciona:",
+    "cycle90Minutes": "O ciclo de sono médio dura cerca de 90 minutos.",
+    "fiveCycles": "Uma noite típica inclui 5 ciclos completos de sono, o que equivale a 7,5 horas de sono (90 × 5 = 450 minutos).",
+    "countBack": "Para encontrar seu horário ideal de dormir, comece com seu horário de despertar e conte para trás 7,5 horas.",
+    "example": "Exemplo: Se você precisa acordar às 6:00 da manhã, seu horário ideal de dormir seria por volta das 22:30. Este é o momento em que você deve estar na cama, pronto para dormir.",
+    "adjustment": "Este cálculo é um ponto de partida porque os ciclos de sono de cada pessoa podem variar ligeiramente. Tente este horário de dormir por uma semana e ajuste conforme necessário:",
+    "tooEarly": "Se você acordar muito cedo (mais de 5-10 minutos antes do alarme), mova seu horário de dormir um pouco mais tarde.",
+    "sleepThrough": "Se você ainda dormir através do alarme após uma semana, mude seu horário de dormir mais cedo.",
+    "increments": "Faça ajustes em incrementos de 15 minutos até acordar naturalmente logo antes do alarme.",
+    "optimization": "Seguindo este método, você pode otimizar seu sono, acordar se sentindo revigorado e aproveitar ao máximo seu descanso noturno."
+  },
+  "useCases": {
+    "title": "Sono Recomendado por Idade – Insights da Calculadora de Ciclos de Sono",
+    "subtitle": "A quantidade de sono que você precisa varia dependendo de vários fatores, incluindo idade, genética, estilo de vida e níveis de atividade diária. Usar uma calculadora de ciclos de sono pode ajudar você a planejar seus horários de dormir e despertar de acordo com suas necessidades pessoais de sono.",
+    "authoritiesNote": "Autoridades de saúde, como a American Academy of Sleep Medicine (AASM), fornecem diretrizes gerais de sono para todas as faixas etárias baseadas em pesquisa científica e conhecimento especializado.",
+    "ageGroup": "Faixa Etária",
+    "recommendedSleep": "Quantidade Recomendada de Sono",
+    "infant": "Bebê (4-12 meses)",
+    "toddler": "Criança pequena (1-2 anos)",
+    "preschool": "Pré-escolar (3-5 anos)",
+    "schoolAge": "Idade escolar (6-12 anos)",
+    "teen": "Adolescente (13-18 anos)",
+    "adult": "Adulto (18+ anos)",
+    "howToUseTitle": "Como Usar Isso com uma Calculadora de Ciclos de Sono:",
+    "step1": "Combine seus requisitos de sono específicos da idade com uma calculadora de ciclos de sono para encontrar seus horários ideais de dormir e despertar.",
+    "step2": "Adultos devem visar pelo menos 7 horas de sono, idealmente completando ciclos completos de sono de 90 minutos.",
+    "step3": "Crianças e adolescentes precisam de mais sono para apoiar crescimento, aprendizado e saúde ótima, então planeje horários de dormir adequadamente.",
+    "tracking": "Rastrear seu sono usando este método pode ajudar você a acordar se sentindo revigorado e energizado, garantindo duração suficiente de sono por idade.",
+    "infantHours": "12-16 horas",
+    "toddlerHours": "11-14 horas",
+    "preschoolHours": "10-13 horas",
+    "schoolAgeHours": "9-12 horas",
+    "teenHours": "8-10 horas",
+    "adultHours": "Pelo menos 7 horas"
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "description": "Encontre respostas para perguntas comuns sobre usar nossa calculadora de sono para vários propósitos.",
+    "question1": "Que horas devo acordar?",
+    "answer1": "Você deve visar acordar no final de um ciclo de sono de 90 minutos. Use nossa calculadora para encontrar os melhores horários de despertar para se sentir revigorado em vez de sonolento.",
+    "question2": "Que horas devo dormir?",
+    "answer2": "Seu horário de dormir depende de quando você planeja acordar. Digite seu horário de despertar na calculadora, e ela sugerirá vários horários de dormir baseados em ciclos naturais de sono.",
+    "question3": "Quanto sono preciso calculadora?",
+    "answer3": "A maioria dos adultos precisa de 7-9 horas de sono. Nossa calculadora ajuda você a planejar em torno de ciclos de sono, não apenas horas, para acordar no estágio certo do sono.",
+    "question4": "Se eu dormir às 10h, que horas vou acordar?",
+    "answer4": "Se você dormir às 10h, a calculadora pode mostrar os melhores horários de despertar baseados em ciclos completos. Por exemplo, 11:45, 13:15, 14:45, e assim por diante.",
+    "question5": "Que horas dormir para acordar às 6?",
+    "answer5": "Para acordar às 6h, horários ideais de dormir são por volta das 20:45, 22:15 ou 23:45 da noite anterior. Estes horários se alinham com ciclos completos de sono."
+  },
+  "time": {
+    "am": "AM",
+    "pm": "PM"
+  }
+}
+

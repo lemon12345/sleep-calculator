@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Calcolatore del Sonno",
+    "description": "Usa il nostro calcolatore dei cicli del sonno per trovare l'ora ideale di andare a letto e svegliarsi. Scopri le ore di sonno raccomandate per età, ottimizza il tuo programma del sonno e svegliati riposato con la durata perfetta del sonno per ogni fascia d'età.",
+    "wakeUpTimeQuestion": "A che ora vuoi svegliarti?",
+    "bedTimeQuestion": "Se vuoi andare a letto ora...",
+    "calculateBedtime": "Calcola l'ora di andare a letto",
+    "calculateWakeUp": "Calcola l'ora di svegliarsi",
+    "fallAsleepTime": "L'uomo medio impiega 15 minuti per addormentarsi.",
+    "bedtimeResult": "Per svegliarti riposato alle {time}, devi andare a dormire a una delle seguenti ore:",
+    "wakeupResult": "Se vai a dormire ora, dovresti provare a svegliarti a una delle seguenti ore:",
+    "suggestedTimes": "Consigliata",
+    "explanation": "Se ti svegli a una di queste ore, ti alzerai tra i cicli di sonno di 90 minuti. Una buona notte di sonno consiste in 5-6 cicli di sonno completi.",
+    "goBack": "Torna indietro"
+  },
+  "features": {
+    "title": "Calcolatore dei Cicli del Sonno: Come Funziona",
+    "subtitle": "Un calcolatore dei cicli del sonno è una formula semplice che ti aiuta a pianificare quanto sonno hai bisogno per sentirti riposato. Tutto quello di cui hai bisogno è la tua ora desiderata di svegliarsi. Ecco come funziona:",
+    "cycle90Minutes": "Un ciclo di sonno medio dura circa 90 minuti.",
+    "fiveCycles": "Una notte tipica include 5 cicli di sonno completi, che equivale a 7,5 ore di sonno (90 × 5 = 450 minuti).",
+    "countBack": "Per trovare la tua ora ideale di andare a letto, inizia dal tempo di sveglia e conta indietro 7,5 ore.",
+    "example": "Esempio: Se devi svegliarti alle 6:00 del mattino, la tua ora ideale per andare a letto sarebbe intorno alle 22:30. Questo è quando dovresti essere a letto, pronto a dormire.",
+    "adjustment": "Questo calcolo è un punto di partenza perché i cicli del sonno di ognuno possono variare leggermente. Prova questa ora di andare a letto per una settimana e aggiusta secondo necessità:",
+    "tooEarly": "Se ti svegli troppo presto (più di 5-10 minuti prima della tua sveglia), sposta l'ora di andare a letto leggermente più tardi.",
+    "sleepThrough": "Se dormi ancora attraverso la sveglia dopo una settimana, sposta l'ora di andare a letto più presto.",
+    "increments": "Fai aggiustamenti in incrementi di 15 minuti finché non ti svegli naturalmente appena prima della tua sveglia.",
+    "optimization": "Seguendo questo metodo, puoi ottimizzare il tuo sonno, svegliarti riposato e fare al meglio il tuo riposo notturno."
+  },
+  "useCases": {
+    "title": "Sonno Raccomandato per Età - Approfondimenti Calcolatore Cicli del Sonno",
+    "subtitle": "La quantità di sonno di cui hai bisogno varia a seconda di diversi fattori, incluse età, genetica, stile di vita e livelli di attività quotidiana. Usare un calcolatore dei cicli del sonno可以从uoi aiutare a pianificare l'ora di andare a letto e svegliarsi secondo le tue esigenze personali di sonno.",
+    "authoritiesNote": "Le autorità sanitarie, come l'American Academy of Sleep Medicine (AASM), forniscono linee guida generali sul sonno per tutti i gruppi d'età basate su ricerca scientifica e conoscenza esperta.",
+    "ageGroup": "Gruppo d'Età",
+    "recommendedSleep": "Quantità Raccomandata di Sonno",
+    "infant": "Neonato (4-12 mesi)",
+    "toddler": "Bambino piccolo (1-2 anni)",
+    "preschool": "Prescolare (3-5 anni)",
+    "schoolAge": "Età scolare (6-12 anni)",
+    "teen": "Adolescente (13-18 anni)",
+    "adult": "Adulto (18+ anni)",
+    "howToUseTitle": "Come usare questo con un Calcolatore dei Cicli del Sonno:",
+    "step1": "Combina i requisiti di sonno specifici per età con un calcolatore dei cicli del sonno per trovare l'ora ideale di andare a letto e svegliarsi.",
+    "step2": "Gli adulti dovrebbero mirare ad almeno 7 ore di sonno, idealmente completando cicli di sonno completi di 90 minuti.",
+    "step3": "Bambini e adolescenti hanno bisogno di più sonno per sostenere crescita, apprendimento e salute ottimale, quindi pianifica gli orari di andare a letto di conseguenza.",
+    "tracking": "Tracciare il tuo sonno usando questo metodo può aiutarti a svegliarti riposato ed energizzato, assicurando al contempo una durata del sonno sufficiente per età.",
+    "infantHours": "12-16 ore",
+    "toddlerHours": "11-14 ore",
+    "preschoolHours": "10-13 ore",
+    "schoolAgeHours": "9-12 ore",
+    "teenHours": "8-10 ore",
+    "adultHours": "Almeno 7 ore"
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "description": "Trova risposte alle domande frequenti sull'uso del nostro calcolatore del sonno per vari scopi.",
+    "question1": "A che ora dovrei svegliarmi?",
+    "answer1": "Dovresti mirare a svegliarti alla fine di un ciclo di sonno di 90 minuti. Usa il nostro calcolatore per trovare i migliori orari di sveglia per sentirti riposato invece di confuso.",
+    "question2": "A che ora dovrei andare a letto?",
+    "answer2": "La tua ora per andare a letto dipende da quando pianifichi di svegliarti. Inserisci il tuo orario di sveglia nel calcolatore, e suggerirà diverse ore di andare a letto basate su cicli di sonno naturali.",
+    "question3": "Quanto sonno ho bisogno nel calcolatore?",
+    "answer3": "La maggior parte degli adulti ha bisogno di 7-9 ore di sonno. Il nostro calcolatore ti aiuta a pianificare intorno ai cicli del sonno, non solo le ore, così ti svegli nella fase corretta del sonno.",
+    "question4": "Se vado a dormire alle 10 del mattino a che ora mi sveglierò?",
+    "answer4": "Se vai a dormire alle 10 del mattino, il calcolatore può mostrarti i migliori orari di sveglia basati su cicli completi. Per esempio, 11:45 del mattino, 13:15, 14:45, e così via.",
+    "question5": "A che ora dormire per svegliarsi alle 6?",
+    "answer5": "Per svegliarsi alle 6 del mattino, gli orari ideali per andare a letto sarebbero intorno alle 20:45, 22:15, o 23:45 la sera precedente. Questi orari si allineano con cicli di sonno completi."
+  },
+  "time": {
+    "am": "AM",
+    "pm": "PM"
+  }
+}

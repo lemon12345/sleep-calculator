@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Calculadora de Sueño",
+    "description": "Usa nuestra calculadora de ciclos de sueño para encontrar tu hora ideal de dormir y despertarte. Descubre la cantidad de sueño recomendada según tu edad, optimiza tu horario de sueño y despierta sintiéndote renovado con la duración perfecta de sueño para cada grupo de edad.",
+    "wakeUpTimeQuestion": "Ingresa la hora en la que deseas despertarte",
+    "bedTimeQuestion": "¿Vas a dormir ahora?",
+    "calculateBedtime": "Calcular Hora Ideal para Dormir",
+    "calculateWakeUp": "Calcular Hora Óptima para Despertar",
+    "fallAsleepTime": "El humano promedio tarda 15 minutos en quedarse dormido.",
+    "bedtimeResult": "Para despertarte fresco a las {time}, necesitas ir a dormir en alguna de las siguientes horas:",
+    "wakeupResult": "Si te vas a dormir ahora, deberías tratar de despertarte en alguna de las siguientes horas:",
+    "suggestedTimes": "Sugerida",
+    "explanation": "Si te despiertas en alguna de estas horas, te levantarás entre ciclos de sueño de 90 minutos. Un buen sueño nocturno consiste en 5-6 ciclos de sueño completos.",
+    "goBack": "Volver"
+  },
+  "features": {
+    "title": "Calculadora de Ciclos de Sueño: Cómo Funciona",
+    "subtitle": "Una calculadora de ciclos de sueño es una fórmula simple que te ayuda a planificar cuánto sueño necesitas para sentirte fresco. Todo lo que necesitas es tu hora deseada de despertar. Así es como funciona:",
+    "cycle90Minutes": "Un ciclo de sueño promedio dura aproximadamente 90 minutos.",
+    "fiveCycles": "Una noche típica incluye 5 ciclos de sueño completos, lo que equivale a 7.5 horas de sueño (90 × 5 = 450 minutos).",
+    "countBack": "Para encontrar tu hora ideal de dormir, comienza desde tu hora de despertar y cuenta hacia atrás 7.5 horas.",
+    "example": "Ejemplo: Si necesitas despertarte a las 6:00 AM, tu hora ideal de dormir sería alrededor de las 10:30 PM. Es cuando deberías estar en la cama, listo para dormir.",
+    "adjustment": "Este cálculo es un punto de partida porque los ciclos de sueño de todos pueden variar ligeramente. Prueba esta hora de dormir por una semana y ajusta según sea necesario:",
+    "tooEarly": "Si te despiertas muy temprano (más de 5-10 minutos antes de tu alarma), mueve tu hora de dormir un poco más tarde.",
+    "sleepThrough": "Si aún duermes hasta escuchar tu alarma después de una semana, cambia tu hora de dormir más temprano.",
+    "increments": "Haz ajustes en incrementos de 15 minutos hasta que te despiertes naturalmente justo antes de tu alarma.",
+    "optimization": "Siguiendo este método, puedes optimizar tu sueño, despertarte fresco y aprovechar al máximo tu descanso nocturno."
+  },
+  "useCases": {
+    "title": "Sueño Recomendado por Edad - Perspectivas de la Calculadora de Ciclos de Sueño",
+    "subtitle": "La cantidad de sueño que necesitas varía dependiendo de varios factores, incluida la edad, genética, estilo de vida y niveles de actividad diaria. Usar una calculadora de ciclos de sueño puede ayudarte a planificar tu hora de dormir y despertar según tus necesidades personales de sueño.",
+    "authoritiesNote": "Las autoridades de salud, como la Academia Estadounidense de Medicina del Sueño (AASM), proporcionan pautas generales de sueño para todos los grupos de edad basadas en investigación científica y conocimiento experto.",
+    "ageGroup": "Grupo de Edad",
+    "recommendedSleep": "Cantidad Recomendada de Sueño",
+    "infant": "Bebé (4-12 meses)",
+    "toddler": "Niño pequeño (1-2 años)",
+    "preschool": "Preescolar (3-5 años)",
+    "schoolAge": "Edad escolar (6-12 años)",
+    "teen": "Adolescente (13-18 años)",
+    "adult": "Adulto (18+ años)",
+    "howToUseTitle": "Cómo usar esto con una Calculadora de Ciclos de Sueño:",
+    "step1": "Combina tus requisitos de sueño específicos por edad con una calculadora de ciclos de sueño para encontrar tu hora ideal de dormir y despertar.",
+    "step2": "Los adultos deberían apuntar a al menos 7 horas de sueño, idealmente completando ciclos de sueño completos de 90 minutos.",
+    "step3": "Los niños y adolescentes necesitan más sueño para apoyar el crecimiento, el aprendizaje y la salud óptima, así que planifica las horas de dormir en consecuencia.",
+    "tracking": "Rastrear tu sueño usando este método puede ayudarte a despertarte fresco y energizado, mientras aseguras una duración de sueño suficiente por edad.",
+    "infantHours": "12-16 horas",
+    "toddlerHours": "11-14 horas",
+    "preschoolHours": "10-13 horas",
+    "schoolSizeHours": "9-12 horas",
+    "teenHours": "8-10 horas",
+    "adultHours": "Al menos 7 horas"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Encuentra respuestas a preguntas frecuentes sobre el uso de nuestra calculadora de sueño para varios propósitos.",
+    "question1": "¿A qué hora específica debería despertarme?",
+    "answer1": "Deberías apuntar a despertarte al final de un ciclo de sueño de 90 minutos. Usa nuestra calculadora para encontrar las mejores horas de despertar para sentirte fresco en lugar de aturdido.",
+    "question2": "¿A qué hora debo irme a dormir?",
+    "answer2": "Tu hora de dormir depende de cuándo planeas despertarte. Ingresa tu hora de despertar en la calculadora, y sugerirá varias horas de dormir basadas en ciclos de sueño naturales.",
+    "question3": "¿Cuánto sueño necesito en la calculadora?",
+    "answer3": "La mayoría de los adultos necesitan 7-9 horas de sueño. Nuestra calculadora te ayuda a planificar alrededor de ciclos de sueño, no solo horas, para que te despiertes en la etapa correcta del sueño.",
+    "question4": "Si me voy a dormir a las 10 AM ¿a qué hora despertaré?",
+    "answer4": "Si te vas a dormir a las 10 AM, la calculadora puede mostrarte las mejores horas de despertar basadas en ciclos completos. Por ejemplo, 11:45 AM, 1:15 PM, 2:45 PM, y así sucesivamente.",
+    "question5": "¿A qué hora dormir para despertar a las 6?",
+    "answer5": "Para despertar a las 6 AM, las horas ideales de dormir serían alrededor de las 8:45 PM, 10:15 PM, o 11:45 PM la noche anterior. Estas horas se alinean con ciclos de sueño completos."
+  },
+  "time": {
+    "am": "AM",
+    "pm": "PM"
+  }
+}

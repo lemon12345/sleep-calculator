@@ -1,0 +1,156 @@
+{
+  "LanguageDetection": {
+    "title": "Language Suggestion",
+    "description": "We noticed your browser language differs from the current site language. You can switch languages anytime 👉",
+    "countdown": "Closing in {countdown} seconds"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} All rights reserved.",
+    "PrivacyPolicy": "Privacy Policy",
+    "TermsOfService": "Terms of Service",
+    "Links": {
+      "groups": [
+        {
+          "title": "Products",
+          "links": [
+            {
+              "href": "/",
+              "name": "Sleep Calculator"
+            }
+          ]
+        },
+        {
+          "title": "Support",
+          "links": [
+            {
+              "href": "mailto:hi@calculatorsleep.org",
+              "name": "Contact Us"
+            }
+          ]
+        },
+        {
+          "title": "Languages",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/ko",
+              "name": "한국어",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ms",
+              "name": "Bahasa Melayu",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            },
+            
+             {"href": "/ru",
+              "name": "Русский",
+              "useA": true
+            },{"href": "/ar",
+              "name": "العربية",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "睡眠计算器",
+    "tagLine": "专业的睡眠周期计算器，满足各种需求",
+    "description": "完整的睡眠周期计算器 - 理想就寝时间计算器、起床时间计算器、按年龄睡眠时长、睡眠优化工具。完美适用于改善睡眠质量、优化睡眠时间表、培养健康睡眠习惯。",
+    "pageData": {
+      "tagLine": "专业的睡眠周期计算器，满足各种需求",
+      "description": "完整的睡眠周期计算器 - 理想就寝时间计算器、起床时间计算器、按年龄睡眠时长、睡眠优化工具。完美适用于改善睡眠质量、优化睡眠时间表、培养健康睡眠习惯。"
+    }
+  },
+  "Blogs": {
+    "title": "睡眠计算器博客",
+    "description": "发现睡眠计算器的最新功能、技巧和更新 - 您的终极睡眠优化平台。",
+    "emptyState": {
+      "title": "暂无博客文章",
+      "description": "我们正在创建关于睡眠优化的精彩内容，请持续关注！"
+    },
+    "loadMorePostsFailed": "加载更多文章失败",
+    "loadMorePosts": "正在加载更多文章...",
+    "filterPostsFailed": "加载文章失败",
+    "noPostsFoundForThisTag": "此分类下没有找到文章",
+    "reachedTheEnd": "您已浏览完所有文章",
+    "BlogDetail": {
+      "featured": "精选文章",
+      "accessRestricted": "访问受限",
+      "unauthorized": "此文章仅对已登录用户开放",
+      "premium": "高级内容",
+      "premiumContent": "此文章仅限订阅用户",
+      "signIn": "登录",
+      "upgrade": "升级",
+      "backToBlogs": "返回博客列表",
+      "notFound": "文章未找到"
+    }
+  },
+  "TermsOfService": {
+    "title": "Terms of Service",
+    "description": "Terms of Service"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "description": "Privacy Policy"
+  }
+}

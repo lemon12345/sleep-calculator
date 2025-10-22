@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "title": "Kalkulator Tidur",
+    "description": "Gunakan kalkulator kitaran tidur kami untuk mencari masa tidur dan bangun yang ideal. Temui tidur yang disyorkan mengikut umur, optimalkan jadual tidur anda, dan bangun dengan segar dengan tempoh tidur yang sempurna untuk setiap kumpulan umur.",
+    "wakeUpTimeQuestion": "Masukkan Masa Bangun Yang Diingini",
+    "bedTimeQuestion": "Nak Tidur Sekarang?",
+    "calculateBedtime": "Kira Masa Tidur Ideal",
+    "calculateWakeUp": "Kira Masa Bangun Optimum",
+    "bedtimeTitle": "Masa Tidur",
+    "wakeupTitle": "Masa Bangun",
+    "fallAsleepTime": "Purata manusia mengambil 15 minit untuk tertidur.",
+    "bedtimeResult": "Untuk bangun segar pada {time}, anda perlu tidur pada salah satu masa berikut:",
+    "wakeupResult": "Jika anda tidur sekarang, anda patut cuba bangun pada salah satu masa berikut:",
+    "suggestedTimes": "Dicadangkan",
+    "explanation": "Jika anda bangun pada salah satu masa ini, anda akan bangun di antara kitaran tidur 90 minit. Tidur malam yang baik terdiri daripada 5-6 kitaran tidur yang lengkap.",
+    "goBack": "Kembali"
+  },
+  "features": {
+    "title": "Kalkulator Kitaran Tidur: Cara Ia Berfungsi",
+    "subtitle": "Kalkulator kitaran tidur adalah formula mudah yang membantu anda merancang berapa banyak tidur yang anda perlukan untuk merasa segar. Yang anda perlukan hanyalah masa bangun yang diingini. Begini cara ia berfungsi:",
+    "cycle90Minutes": "Purata kitaran tidur berlangsung kira-kira 90 minit.",
+    "fiveCycles": "Malam biasa termasuk 5 kitaran tidur penuh, yang bersamaan dengan 7.5 jam tidur (90 × 5 = 450 minit).",
+    "countBack": "Untuk mencari masa tidur ideal anda, mulakan dari masa bangun anda dan kira balik 7.5 jam.",
+    "example": "Contoh: Jika anda perlu bangun pada 6:00 AM, masa tidur ideal anda akan sekitar 10:30 PM. Ini adalah masa anda patut berada di katil, bersedia untuk tidur.",
+    "adjustment": "Pengiraan ini adalah titik permulaan kerana kitaran tidur setiap orang boleh berbeza sedikit. Cuba masa tidur ini selama seminggu dan laraskan mengikut keperluan:",
+    "tooEarly": "Jika anda bangun terlalu awal (lebih daripada 5-10 minit sebelum penggera), gerakkan masa tidur anda sedikit lewat.",
+    "sleepThrough": "Jika anda masih tidur melalui penggera selepas seminggu, tukar masa tidur anda lebih awal.",
+    "increments": "Buat larasan dalam kenaikan 15 minit sehingga anda bangun secara semula jadi tepat sebelum penggera.",
+    "optimization": "Dengan mengikuti kaedah ini, anda boleh mengoptimumkan tidur anda, bangun merasa segar, dan memaksimumkan rehat malam anda."
+  },
+  "useCases": {
+    "title": "Tidur Disyorkan Mengikut Umur – Pandangan Kalkulator Kitaran Tidur",
+    "subtitle": "Jumlah tidur yang anda perlukan berbeza bergantung pada beberapa faktor, termasuk umur, genetik, gaya hidup, dan tahap aktiviti harian. Menggunakan kalkulator kitaran tidur boleh membantu anda merancang masa tidur dan bangun mengikut keperluan tidur peribadi anda.",
+    "authoritiesNote": "Pihak berkuasa kesihatan, seperti American Academy of Sleep Medicine (AASM), menyediakan garis panduan tidur umum untuk semua kumpulan umur berdasarkan penyelidikan saintifik dan pengetahuan pakar.",
+    "ageGroup": "Kumpulan Umur",
+    "recommendedSleep": "Jumlah Tidur Disyorkan",
+    "infant": "Bayi (4-12 bulan)",
+    "toddler": "Kanak-kanak kecil (1-2 tahun)",
+    "preschool": "Praschool (3-5 tahun)",
+    "schoolAge": "Usia sekolah (6-12 tahun)",
+    "teen": "Remaja (13-18 tahun)",
+    "adult": "Dewasa (18+ tahun)",
+    "howToUseTitle": "Cara Menggunakan Ini Dengan Kalkulator Kitaran Tidur:",
+    "step1": "Gabungkan keperluan tidur khusus umur anda dengan kalkulator kitaran tidur untuk mencari masa tidur dan bangun yang ideal.",
+    "step2": "Dewasa patut menargetkan sekurang-kurangnya 7 jam tidur, idealnya melengkapkan kitaran tidur 90 minit yang penuh.",
+    "step3": "Kanak-kanak dan remaja memerlukan lebih banyak tidur untuk menyokong pertumbuhan, pembelajaran, dan kesihatan optimum, jadi rancang masa tidur dengan sewajarnya.",
+    "tracking": "Mengesan tidur anda menggunakan kaedah ini boleh membantu anda bangun merasa segar dan bertenaga, sambil memastikan tempoh tidur yang mencukupi mengikut umur.",
+    "infantHours": "12-16 jam",
+    "toddlerHours": "11-14 jam",
+    "preschoolHours": "10-13 jam",
+    "schoolAgeHours": "9-12 jam",
+    "teenHours": "8-10 jam",
+    "adultHours": "Sekurang-kurangnya 7 jam"
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "description": "Cari jawapan kepada soalan biasa tentang menggunakan kalkulator tidur kami untuk pelbagai tujuan.",
+    "question1": "Bilakah saya patut bangun?",
+    "answer1": "Anda patut menargetkan bangun pada akhir kitaran tidur 90 minit. Gunakan kalkulator kami untuk mencari masa bangun terbaik supaya anda merasa segar bukannya mengantuk.",
+    "question2": "Bilakah saya patut tidur?",
+    "answer2": "Masa tidur anda bergantung pada bila anda merancang untuk bangun. Masukkan masa bangun anda dalam kalkulator, dan ia akan mencadangkan beberapa masa tidur berdasarkan kitaran tidur semula jadi.",
+    "question3": "Berapa banyak tidur yang saya perlukan kalkulator?",
+    "answer3": "Kebanyakan dewasa memerlukan 7-9 jam tidur. Kalkulator kami membantu anda merancang sekitar kitaran tidur, bukan hanya jam, supaya anda bangun pada peringkat tidur yang betul.",
+    "question4": "Jika saya tidur pada 10 AM bilakah saya akan bangun?",
+    "answer4": "Jika anda tidur pada 10 AM, kalkulator boleh menunjukkan masa bangun terbaik berdasarkan kitaran penuh. Contohnya, 11:45 AM, 1:15 PM, 2:45 PM, dan seterusnya.",
+    "question5": "Bilakah untuk tidur untuk bangun pada 6?",
+    "answer5": "Untuk bangun pada 6 AM, masa tidur ideal adalah sekitar 8:45 PM, 10:15 PM, atau 11:45 PM malam sebelumnya. Masa-masa ini selari dengan kitaran tidur yang lengkap."
+  },
+  "time": {
+    "am": "AM",
+    "pm": "PM"
+  }
+}
+

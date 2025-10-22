@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "title": "Sömnkalkylator",
+    "description": "Använd vår sömncykelkalkylator för att hitta din ideala läggtid och uppvakningstid. Upptäck rekommenderad sömn efter ålder, optimera din sömnschema och vakna uppfriskad med perfekt sömnlängd för varje åldersgrupp.",
+    "wakeUpTimeQuestion": "Ange Din Önskade Uppvakningstid",
+    "bedTimeQuestion": "Ska Du Sova Nu?",
+    "calculateBedtime": "Beräkna Ideal Läggtid",
+    "calculateWakeUp": "Beräkna Optimal Uppvakningstid",
+    "bedtimeTitle": "Läggtid",
+    "wakeupTitle": "Uppvakningstid",
+    "fallAsleepTime": "Den genomsnittliga människan tar 15 minuter att somna.",
+    "bedtimeResult": "För att vakna uppfriskad klockan {time}, behöver du sova vid en av följande tider:",
+    "wakeupResult": "Om du ska sova nu, bör du försöka vakna vid en av följande tider:",
+    "suggestedTimes": "Föreslagna",
+    "explanation": "Om du vaknar vid en av dessa tider kommer du att stiga upp mellan 90-minuters sömncykler. En bra natts sömn består av 5-6 fullständiga sömncykler.",
+    "goBack": "Gå tillbaka"
+  },
+  "features": {
+    "title": "Sömncykelkalkylator: Så Fungerar Det",
+    "subtitle": "En sömncykelkalkylator är en enkel formel som hjälper dig planera hur mycket sömn du behöver för att känna dig uppfriskad. Allt du behöver är din önskade uppvakningstid. Så här fungerar det:",
+    "cycle90Minutes": "Den genomsnittliga sömncykeln varar cirka 90 minuter.",
+    "fiveCycles": "En typisk natt inkluderar 5 fullständiga sömncykler, vilket motsvarar 7,5 timmars sömn (90 × 5 = 450 minuter).",
+    "countBack": "För att hitta din ideala läggtid, börja från din uppvakningstid och räkna bakåt 7,5 timmar.",
+    "example": "Exempel: Om du behöver vakna klockan 06:00, skulle din ideala läggtid vara runt 22:30. Det här är när du bör vara i sängen, redo att sova.",
+    "adjustment": "Denna beräkning är en utgångspunkt eftersom allas sömncykler kan variera något. Prova denna läggtid i en vecka och justera vid behov:",
+    "tooEarly": "Om du vaknar för tidigt (mer än 5-10 minuter före alarmet), flytta din läggtid något senare.",
+    "sleepThrough": "Om du fortfarande sover igenom alarmet efter en vecka, flytta din läggtid tidigare.",
+    "increments": "Gör justeringar i 15-minuters steg tills du vaknar naturligt precis före alarmet.",
+    "optimization": "Genom att följa denna metod kan du optimera din sömn, vakna uppfriskad och få ut det mesta av din natts vila."
+  },
+  "useCases": {
+    "title": "Rekommenderad Sömn efter Ålder – Sömncykelkalkylator Insights",
+    "subtitle": "Mängden sömn du behöver varierar beroende på flera faktorer, inklusive ålder, genetik, livsstil och dagliga aktivitetsnivåer. Att använda en sömncykelkalkylator kan hjälpa dig planera dina lägg- och uppvakningstider enligt dina personliga sömnbehov.",
+    "authoritiesNote": "Hälsomyndigheter, som American Academy of Sleep Medicine (AASM), tillhandahåller allmänna sömnriktlinjer för alla åldersgrupper baserat på vetenskaplig forskning och expertkunskap.",
+    "ageGroup": "Åldersgrupp",
+    "recommendedSleep": "Rekommenderad Mängd Sömn",
+    "infant": "Spädbarn (4-12 månader)",
+    "toddler": "Småbarn (1-2 år)",
+    "preschool": "Förskolebarn (3-5 år)",
+    "schoolAge": "Skolålder (6-12 år)",
+    "teen": "Tonåring (13-18 år)",
+    "adult": "Vuxen (18+ år)",
+    "howToUseTitle": "Hur Man Använder Detta Med en Sömncykelkalkylator:",
+    "step1": "Kombinera dina åldersspecifika sömnkrav med en sömncykelkalkylator för att hitta dina ideala lägg- och uppvakningstider.",
+    "step2": "Vuxna bör sikta på minst 7 timmars sömn, helst genomföra fullständiga 90-minuters sömncykler.",
+    "step3": "Barn och tonåringar behöver mer sömn för att stödja tillväxt, lärande och optimal hälsa, så planera läggtider därefter.",
+    "tracking": "Att spåra din sömn med denna metod kan hjälpa dig vakna uppfriskad och energisk, samtidigt som du säkerställer tillräcklig sömnlängd efter ålder.",
+    "infantHours": "12-16 timmar",
+    "toddlerHours": "11-14 timmar",
+    "preschoolHours": "10-13 timmar",
+    "schoolAgeHours": "9-12 timmar",
+    "teenHours": "8-10 timmar",
+    "adultHours": "Minst 7 timmar"
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "description": "Hitta svar på vanliga frågor om att använda vår sömnkalkylator för olika ändamål.",
+    "question1": "Vilken tid bör jag vakna?",
+    "answer1": "Du bör sikta på att vakna vid slutet av en 90-minuters sömncykel. Använd vår kalkylator för att hitta de bästa uppvakningstiderna så att du känner dig uppfriskad istället för sömnig.",
+    "question2": "Vilken tid bör jag sova?",
+    "answer2": "Din läggtid beror på när du planerar att vakna. Ange din uppvakningstid i kalkylatorn, och den kommer att föreslå flera läggtider baserat på naturliga sömncykler.",
+    "question3": "Hur mycket sömn behöver jag kalkylator?",
+    "answer3": "De flesta vuxna behöver 7-9 timmars sömn. Vår kalkylator hjälper dig planera runt sömncykler, inte bara timmar, så att du vaknar i rätt stadie av sömn.",
+    "question4": "Om jag sover klockan 10, vilken tid vaknar jag?",
+    "answer4": "Om du sover klockan 10, kan kalkylatorn visa de bästa uppvakningstiderna baserat på fullständiga cykler. Till exempel 11:45, 13:15, 14:45, och så vidare.",
+    "question5": "Vilken tid att sova för att vakna klockan 6?",
+    "answer5": "För att vakna klockan 06:00, ideala läggtider är runt 20:45, 22:15 eller 23:45 kvällen innan. Dessa tider stämmer överens med fullständiga sömncykler."
+  },
+  "time": {
+    "am": "AM",
+    "pm": "PM"
+  }
+}
+

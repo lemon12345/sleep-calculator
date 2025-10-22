@@ -1,0 +1,156 @@
+{
+  "LanguageDetection": {
+    "title": "Language Suggestion",
+    "description": "We noticed your browser language differs from the current site language. You can switch languages anytime 👉",
+    "countdown": "Closing in {countdown} seconds"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} All rights reserved.",
+    "PrivacyPolicy": "Privacy Policy",
+    "TermsOfService": "Terms of Service",
+    "Links": {
+      "groups": [
+        {
+          "title": "Products",
+          "links": [
+            {
+              "href": "/",
+              "name": "Kalkulator Tidur"
+            }
+          ]
+        },
+        {
+          "title": "Support",
+          "links": [
+            {
+              "href": "mailto:hi@calculatorsleep.org",
+              "name": "Contact Us"
+            }
+          ]
+        },
+        {
+          "title": "Languages",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/ko",
+              "name": "한국어",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ms",
+              "name": "Bahasa Melayu",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            },
+            
+             {"href": "/ru",
+              "name": "Русский",
+              "useA": true
+            },{"href": "/ar",
+              "name": "العربية",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Pink Screen",
+    "tagLine": "Professional Screen Tools for Every Need",
+    "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects.",
+    "pageData": {
+      "tagLine": "Professional Screen Tools for Every Need",
+      "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects."
+    }
+  },
+  "Blogs": {
+    "title": "Pink Screen Blog",
+    "description": "Discover the latest features, tips, and updates about Pink Screen - your ultimate screen experience platform.",
+    "emptyState": {
+      "title": "No blog posts",
+      "description": "We are creating exciting content, please stay tuned!"
+    },
+    "loadMorePostsFailed": "Failed to load more posts",
+    "loadMorePosts": "Loading more posts...",
+    "filterPostsFailed": "Failed to load posts",
+    "noPostsFoundForThisTag": "No articles found for this category",
+    "reachedTheEnd": "You've reached the end of all posts",
+    "BlogDetail": {
+      "featured": "Featured Post",
+      "accessRestricted": "Access Restricted",
+      "unauthorized": "This article is only available to logged-in users",
+      "premium": "Premium Content",
+      "premiumContent": "This article is exclusive to subscribers",
+      "signIn": "Sign In",
+      "upgrade": "Upgrade",
+      "backToBlogs": "Back to Blog List",
+      "notFound": "Article Not Found"
+    }
+  },
+  "TermsOfService": {
+    "title": "Terms of Service",
+    "description": "Terms of Service"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "description": "Privacy Policy"
+  }
+}

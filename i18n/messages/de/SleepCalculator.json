@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Schlafrechner",
+    "description": "Verwenden Sie unseren Schlafzyklus-Rechner, um Ihre ideale Schlafenszeit und Weckzeit zu finden. Entdecken Sie empfohlene Schlafzeiten nach Alter, optimieren Sie Ihren Schlafplan und wachen Sie erholt auf mit der perfekten Schlafdauer für jede Altersgruppe.",
+    "wakeUpTimeQuestion": "Um welche Zeit möchten Sie aufwachen?",
+    "bedTimeQuestion": "Wenn Sie jetzt schlafen gehen möchten...",
+    "calculateBedtime": "Schlafenszeit berechnen",
+    "calculateWakeUp": "Weckzeit berechnen",
+    "fallAsleepTime": "Der durchschnittliche Mensch braucht 15 Minuten zum Einschlafen.",
+    "bedtimeResult": "Um erholt um {time} aufzuwachen, müssen Sie zu einer der folgenden Zeiten schlafen gehen:",
+    "wakeupResult": "Wenn Sie jetzt schlafen gehen, sollten Sie versuchen, zu einer der folgenden Zeiten aufzuwachen:",
+    "suggestedTimes": "Empfohlen",
+    "explanation": "Wenn Sie zu einer dieser Zeiten aufwachen, kommt Ihr Aufwachen zwischen 90-Minuten-Schlafzyklen. Ein guter Nachtschlaf besteht aus 5-6 vollständigen Schlafzyklen.",
+    "goBack": "Zurück"
+  },
+  "features": {
+    "title": "Schlafzyklus-Rechner: Wie es funktioniert",
+    "subtitle": "Ein Schlafzyklus-Rechner ist eine einfache Formel, die Ihnen hilft zu planen, wie viel Schlaf Sie benötigen, um sich erholt zu fühlen. Alles was Sie brauchen, ist Ihre gewünschte Weckzeit. So funktioniert es:",
+    "cycle90Minutes": "Ein durchschnittlicher Schlafzyklus dauert etwa 90 Minuten.",
+    "fiveCycles": "Eine typische Nacht umfasst 5 vollständige Schlafzyklen, was 7,5 Stunden Schlaf entspricht (90 × 5 = 450 Minuten).",
+    "countBack": "Um Ihre ideale Schlafenszeit zu finden, beginnen Sie bei Ihrer Weckzeit und rechnen Sie 7,5 Stunden zurück.",
+    "example": "Beispiel: Wenn Sie um 6:00 Uhr morgens aufwachen müssen, wäre Ihre ideale Schlafenszeit um 22:30 Uhr. Das ist die Zeit, zu der Sie im Bett sein und zum Schlafen bereit sein sollten.",
+    "adjustment": "Diese Berechnung ist ein Ausgangspunkt, da sich die Schlafzyklen jeder Person leicht unterscheiden können. Probieren Sie diese Schlafenszeit für eine Woche und passen Sie nach Bedarf an:",
+    "tooEarly": "Wenn Sie zu früh aufwachen (mehr als 5-10 Minuten vor Ihrem Wecker), verschieben Sie Ihre Schlafenszeit etwas nach hinten.",
+    "sleepThrough": "Wenn Sie nach einer Woche immer noch durch Ihren Wecker schlafen, verlegen Sie Ihre Schlafenszeit nach vorne.",
+    "increments": "Nehmen Sie Anpassungen in 15-Minuten-Schritten vor, bis Sie kurz vor Ihrem Wecker natürlich aufwachen.",
+    "optimization": "Durch diese Methode können Sie Ihren Schlaf optimieren, erholt aufwachen und das Beste aus Ihrer nächtlichen Erholung machen."
+  },
+  "useCases": {
+    "title": "Empfohlener Schlaf nach Alter - Schlafzyklus-Rechner Einblicke",
+    "subtitle": "Die benötigte Schlafmenge variiert je nach verschiedenen Faktoren, einschließlich Alter, Genetik, Lebensstil und täglichen Aktivitätsniveaus. Ein Schlafzyklus-Rechner kann Ihnen helfen, Ihre Schlafenszeit und Weckzeit entsprechend Ihren persönlichen Schlafbedürfnissen zu planen.",
+    "authoritiesNote": "Gesundheitsbehörden wie die American Academy of Sleep Medicine (AASM) bieten allgemeine Schlafrichtlinien für alle Altersgruppen basierend auf wissenschaftlicher Forschung und Expertenwissen.",
+    "ageGroup": "Altersgruppe",
+    "recommendedSleep": "Empfohlene Schlafmenge",
+    "infant": "Säugling (4-12 Monate)",
+    "toddler": "Kleinkind (1-2 Jahre)",
+    "preschool": "Vorschulalter (3-5 Jahre)",
+    "schoolAge": "Schulalter (6-12 Jahre)",
+    "teen": "Jugendlicher (13-18 Jahre)",
+    "adult": "Erwachsener (18+ Jahre)",
+    "howToUseTitle": "So verwenden Sie dies mit einem Schlafzyklus-Rechner:",
+    "step1": "Kombinieren Sie Ihre altersspezifischen Schlafbedürfnisse mit einem Schlafzyklus-Rechner, um Ihre ideale Schlafenszeit und Weckzeit zu finden.",
+    "step2": "Erwachsene sollten mindestens 7 Stunden Schlaf anstreben und idealerweise vollständige 90-Minuten-Schlafzyklen abschließen.",
+    "step3": "Kinder und Jugendliche benötigen mehr Schlaf zur Unterstützung von Wachstum, Lernen und optimaler Gesundheit, daher entsprechend Schlafenszeiten planen.",
+    "tracking": "Die Verfolgung Ihres Schlafs mit dieser Methode kann Ihnen helfen, erholt und energiegeladen aufzuwachen und gleichzeitig eine ausreichende Schlafdauer nach Alter sicherzustellen.",
+    "infantHours": "12-16 Stunden",
+    "toddlerHours": "11-14 Stunden",
+    "preschoolHours": "10-13 Stunden",
+    "schoolAgeHours": "9-12 Stunden",
+    "teenHours": "8-10 Stunden",
+    "adultHours": "Mindestens 7 Stunden"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "description": "Finden Sie Antworten auf häufige Fragen zur Verwendung unseres Schlafrechners für verschiedene Zwecke.",
+    "question1": "Zu welcher Zeit sollte ich aufwachen?",
+    "answer1": "Sie sollten versuchen, am Ende eines 90-Minuten-Schlafzyklus aufzuwachen. Verwenden Sie unseren Rechner, um die besten Weckzeiten zu finden, damit Sie sich erholt statt benommen fühlen.",
+    "question2": "Zu welcher Zeit sollte ich schlafen gehen?",
+    "answer2": "Ihre Schlafenszeit hängt davon ab, wann Sie aufwachen möchten. Geben Sie Ihre Weckzeit in den Rechner ein, und er wird mehrere Schlafenszeiten basierend auf natürlichen Schlafzyklen vorschlagen.",
+    "question3": "Wie viel Schlaf brauche ich im Rechner?",
+    "answer3": "Die meisten Erwachsenen brauchen 7-9 Stunden Schlaf. Unser Rechner hilft Ihnen, um Schlafzyklen herum zu planen, nicht nur nach Stunden, damit Sie in der richtigen Schlafphase aufwachen.",
+    "question4": "Wenn ich um 10 Uhr morgens schlafen gehe, zu welcher Zeit werde ich aufwachen?",
+    "answer4": "Wenn Sie um 10 Uhr morgens schlafen gehen, kann der Rechner Ihnen die besten auf vollständigen Zyklen basierenden Weckzeiten zeigen. Zum Beispiel 11:45 Uhr morgens, 13:15 Uhr, 14:45 Uhr und so weiter.",
+    "question5": "Um wie viel Uhr sollte ich schlafen gehen, um um 6 Uhr aufzuwachen?",
+    "answer5": "Um um 6 Uhr morgens aufzuwachen, wären ideale Schlafenszeiten etwa 20:45 Uhr, 22:15 Uhr oder 23:45 Uhr am Abend zuvor. Diese Zeiten stimmen mit vollständigen Schlafzyklen überein."
+  },
+  "time": {
+    "am": "Uhr morgens",
+    "pm": "Uhr nachmittags"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "title": "Kalkulator Snu",
+    "description": "Użyj naszego kalkulatora cykli snu, aby znaleźć idealny czas na sen i pobudkę. Odkryj zalecany sen według wieku, zoptymalizuj swój harmonogram snu i budź się wypoczęty z idealnym czasem snu dla każdej grupy wiekowej.",
+    "wakeUpTimeQuestion": "Wprowadź Pożądany Czas Pobudki",
+    "bedTimeQuestion": "Idziesz Spać Teraz?",
+    "calculateBedtime": "Oblicz Idealny Czas Snów",
+    "calculateWakeUp": "Oblicz Optymalny Czas Pobudki",
+    "bedtimeTitle": "Czas Snów",
+    "wakeupTitle": "Czas Pobudki",
+    "fallAsleepTime": "Przeciętny człowiek potrzebuje 15 minut, aby zasnąć.",
+    "bedtimeResult": "Aby obudzić się wypoczęty o {time}, musisz iść spać o jednej z następujących godzin:",
+    "wakeupResult": "Jeśli idziesz spać teraz, powinieneś spróbować obudzić się o jednej z następujących godzin:",
+    "suggestedTimes": "Sugerowane",
+    "explanation": "Jeśli obudzisz się o jednej z tych godzin, wstaniesz między 90-minutowymi cyklami snu. Dobry sen nocny składa się z 5-6 pełnych cykli snu.",
+    "goBack": "Wróć"
+  },
+  "features": {
+    "title": "Kalkulator Cykli Snu: Jak To Działa",
+    "subtitle": "Kalkulator cykli snu to prosty wzór, który pomaga zaplanować, ile snu potrzebujesz, aby czuć się wypoczęty. Potrzebujesz tylko pożądanego czasu pobudki. Oto jak to działa:",
+    "cycle90Minutes": "Przeciętny cykl snu trwa około 90 minut.",
+    "fiveCycles": "Typowa noc obejmuje 5 pełnych cykli snu, co równa się 7,5 godziny snu (90 × 5 = 450 minut).",
+    "countBack": "Aby znaleźć idealny czas na sen, zacznij od czasu pobudki i licz wstecz 7,5 godziny.",
+    "example": "Przykład: Jeśli musisz obudzić się o 6:00 rano, twój idealny czas na sen będzie około 22:30. To jest czas, kiedy powinieneś być w łóżku, gotowy do snu.",
+    "adjustment": "To obliczenie to punkt wyjścia, ponieważ cykle snu każdego mogą się nieznacznie różnić. Spróbuj tego czasu snu przez tydzień i dostosuj w razie potrzeby:",
+    "tooEarly": "Jeśli budzisz się za wcześnie (więcej niż 5-10 minut przed alarmem), przesuń czas snu nieco później.",
+    "sleepThrough": "Jeśli nadal przegapiasz alarm po tygodniu, przesuń czas snu wcześniej.",
+    "increments": "Dokonuj korekt w przyrostach 15-minutowych, aż obudzisz się naturalnie tuż przed alarmem.",
+    "optimization": "Postępując zgodnie z tą metodą, możesz zoptymalizować swój sen, budzić się wypoczęty i maksymalnie wykorzystać nocny odpoczynek."
+  },
+  "useCases": {
+    "title": "Zalecany Sen Według Wieku – Wglądy Kalkulatora Cykli Snu",
+    "subtitle": "Ilość snu, której potrzebujesz, różni się w zależności od kilku czynników, w tym wieku, genetyki, stylu życia i poziomów codziennej aktywności. Używanie kalkulatora cykli snu może pomóc zaplanować czas snu i pobudki zgodnie z osobistymi potrzebami snu.",
+    "authoritiesNote": "Organy zdrowia, takie jak American Academy of Sleep Medicine (AASM), dostarczają ogólnych wytycznych dotyczących snu dla wszystkich grup wiekowych na podstawie badań naukowych i wiedzy eksperckiej.",
+    "ageGroup": "Grupa Wieku",
+    "recommendedSleep": "Zalecana Ilość Snu",
+    "infant": "Niemowlę (4-12 miesięcy)",
+    "toddler": "Małe dziecko (1-2 lata)",
+    "preschool": "Przedszkolak (3-5 lat)",
+    "schoolAge": "Wiek szkolny (6-12 lat)",
+    "teen": "Nastolatek (13-18 lat)",
+    "adult": "Dorosły (18+ lat)",
+    "howToUseTitle": "Jak Używać Tego z Kalkulatorem Cykli Snu:",
+    "step1": "Połącz swoje wymagania snu specyficzne dla wieku z kalkulatorem cykli snu, aby znaleźć idealny czas snu i pobudki.",
+    "step2": "Dorośli powinni dążyć do co najmniej 7 godzin snu, idealnie ukończając pełne 90-minutowe cykle snu.",
+    "step3": "Dzieci i nastolatki potrzebują więcej snu, aby wspierać wzrost, naukę i optymalne zdrowie, więc planuj czas snu odpowiednio.",
+    "tracking": "Śledzenie snu za pomocą tej metody może pomóc budzić się wypoczęty i energiczny, zapewniając jednocześnie wystarczający czas snu według wieku.",
+    "infantHours": "12-16 godzin",
+    "toddlerHours": "11-14 godzin",
+    "preschoolHours": "10-13 godzin",
+    "schoolAgeHours": "9-12 godzin",
+    "teenHours": "8-10 godzin",
+    "adultHours": "Co najmniej 7 godzin"
+  },
+  "faq": {
+    "title": "Często Zadawane Pytania",
+    "description": "Znajdź odpowiedzi na częste pytania dotyczące używania naszego kalkulatora snu do różnych celów.",
+    "question1": "O której godzinie powinienem się obudzić?",
+    "answer1": "Powinieneś dążyć do obudzenia się na końcu 90-minutowego cyklu snu. Użyj naszego kalkulatora, aby znaleźć najlepsze czasy pobudki, aby czuć się wypoczęty zamiast senny.",
+    "question2": "O której godzinie powinienem iść spać?",
+    "answer2": "Twój czas snu zależy od tego, kiedy planujesz się obudzić. Wprowadź czas pobudki do kalkulatora, a zasugeruje kilka czasów snu na podstawie naturalnych cykli snu.",
+    "question3": "Ile snu potrzebuję kalkulator?",
+    "answer3": "Większość dorosłych potrzebuje 7-9 godzin snu. Nasz kalkulator pomaga planować wokół cykli snu, nie tylko godzin, aby obudzić się w odpowiednim etapie snu.",
+    "question4": "Jeśli pójdę spać o 10:00, o której się obudzę?",
+    "answer4": "Jeśli pójdziesz spać o 10:00, kalkulator może pokazać najlepsze czasy pobudki na podstawie pełnych cykli. Na przykład 11:45, 13:15, 14:45 i tak dalej.",
+    "question5": "O której godzinie spać, aby obudzić się o 6?",
+    "answer5": "Aby obudzić się o 6:00, idealne czasy snu to około 20:45, 22:15 lub 23:45 poprzedniej nocy. Te czasy są zgodne z pełnymi cyklami snu."
+  },
+  "time": {
+    "am": "AM",
+    "pm": "PM"
+  }
+}
+

@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "title": "Uyku Hesaplayıcısı",
+    "description": "İdeal uyku ve uyanma zamanınızı bulmak için uyku döngüsü hesaplayıcımızı kullanın. Yaşa göre önerilen uykuyu keşfedin, uyku programınızı optimize edin ve her yaş grubu için mükemmel uyku süresiyle dinç uyanın.",
+    "wakeUpTimeQuestion": "İstediğiniz Uyanma Zamanını Girin",
+    "bedTimeQuestion": "Şimdi Uyuyacak mısınız?",
+    "calculateBedtime": "İdeal Uyku Zamanını Hesapla",
+    "calculateWakeUp": "Optimal Uyanma Zamanını Hesapla",
+    "bedtimeTitle": "Uyku Zamanı",
+    "wakeupTitle": "Uyanma Zamanı",
+    "fallAsleepTime": "Ortalama insan uykuya dalmak için 15 dakika sürer.",
+    "bedtimeResult": "{time} saatinde dinç uyanmak için, aşağıdaki zamanlardan birinde uyumanız gerekir:",
+    "wakeupResult": "Şimdi uyursanız, aşağıdaki zamanlardan birinde uyanmayı denemelisiniz:",
+    "suggestedTimes": "Önerilen",
+    "explanation": "Bu zamanlardan birinde uyanırsanız, 90 dakikalık uyku döngüleri arasında kalkacaksınız. İyi bir gece uykusu 5-6 tam uyku döngüsünden oluşur.",
+    "goBack": "Geri dön"
+  },
+  "features": {
+    "title": "Uyku Döngüsü Hesaplayıcısı: Nasıl Çalışır",
+    "subtitle": "Uyku döngüsü hesaplayıcısı, dinç hissetmek için ne kadar uykuya ihtiyacınız olduğunu planlamanıza yardımcı olan basit bir formüldür. Tek ihtiyacınız olan istediğiniz uyanma zamanıdır. İşte nasıl çalıştığı:",
+    "cycle90Minutes": "Ortalama uyku döngüsü yaklaşık 90 dakika sürer.",
+    "fiveCycles": "Tipik bir gece 5 tam uyku döngüsü içerir, bu da 7.5 saatlik uykuya eşittir (90 × 5 = 450 dakika).",
+    "countBack": "İdeal uyku zamanınızı bulmak için, uyanma zamanınızdan başlayıp 7.5 saat geriye sayın.",
+    "example": "Örnek: Sabah 06:00'da uyanmanız gerekiyorsa, ideal uyku zamanınız akşam 22:30 civarında olacaktır. Bu, yatakta olup uyumaya hazır olmanız gereken zamandır.",
+    "adjustment": "Bu hesaplama bir başlangıç noktasıdır çünkü herkesin uyku döngüleri biraz farklı olabilir. Bu uyku zamanını bir hafta deneyin ve gerektiğinde ayarlayın:",
+    "tooEarly": "Çok erken uyanırsanız (alarmdan 5-10 dakikadan fazla önce), uyku zamanınızı biraz daha geçe kaydırın.",
+    "sleepThrough": "Bir hafta sonra hala alarmı kaçırıyorsanız, uyku zamanınızı daha erken kaydırın.",
+    "increments": "Alarmdan hemen önce doğal olarak uyanana kadar 15 dakikalık artışlarla ayarlamalar yapın.",
+    "optimization": "Bu yöntemi takip ederek uykunuzu optimize edebilir, dinç hissederek uyanabilir ve gecenizin dinlenmesinden en iyi şekilde yararlanabilirsiniz."
+  },
+  "useCases": {
+    "title": "Yaşa Göre Önerilen Uyku – Uyku Döngüsü Hesaplayıcısı İçgörüleri",
+    "subtitle": "İhtiyacınız olan uyku miktarı yaş, genetik, yaşam tarzı ve günlük aktivite seviyeleri dahil olmak üzere birkaç faktöre bağlı olarak değişir. Uyku döngüsü hesaplayıcısı kullanmak, kişisel uyku ihtiyaçlarınıza göre uyku ve uyanma zamanlarınızı planlamanıza yardımcı olabilir.",
+    "authoritiesNote": "American Academy of Sleep Medicine (AASM) gibi sağlık otoriteleri, bilimsel araştırma ve uzman bilgisine dayalı olarak tüm yaş grupları için genel uyku yönergeleri sağlar.",
+    "ageGroup": "Yaş Grubu",
+    "recommendedSleep": "Önerilen Uyku Miktarı",
+    "infant": "Bebek (4-12 ay)",
+    "toddler": "Yürümeye başlayan çocuk (1-2 yaş)",
+    "preschool": "Okul öncesi (3-5 yaş)",
+    "schoolAge": "Okul çağı (6-12 yaş)",
+    "teen": "Genç (13-18 yaş)",
+    "adult": "Yetişkin (18+ yaş)",
+    "howToUseTitle": "Bunu Uyku Döngüsü Hesaplayıcısı ile Nasıl Kullanılır:",
+    "step1": "Yaşa özel uyku gereksinimlerinizi uyku döngüsü hesaplayıcısı ile birleştirerek ideal uyku ve uyanma zamanlarınızı bulun.",
+    "step2": "Yetişkinler en az 7 saat uyku hedeflemelidir, ideal olarak tam 90 dakikalık uyku döngülerini tamamlamalıdır.",
+    "step3": "Çocuklar ve gençler büyüme, öğrenme ve optimal sağlığı desteklemek için daha fazla uykuya ihtiyaç duyar, bu yüzden uyku zamanlarını buna göre planlayın.",
+    "tracking": "Bu yöntemi kullanarak uykunuzu takip etmek, dinç ve enerjik hissederek uyanmanıza yardımcı olabilir, aynı zamanda yaşa göre yeterli uyku süresini sağlar.",
+    "infantHours": "12-16 saat",
+    "toddlerHours": "11-14 saat",
+    "preschoolHours": "10-13 saat",
+    "schoolAgeHours": "9-12 saat",
+    "teenHours": "8-10 saat",
+    "adultHours": "En az 7 saat"
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "description": "Çeşitli amaçlar için uyku hesaplayıcımızı kullanma hakkında yaygın soruların cevaplarını bulun.",
+    "question1": "Ne zaman uyanmalıyım?",
+    "answer1": "90 dakikalık uyku döngüsünün sonunda uyanmayı hedeflemelisiniz. Dinç hissetmek için en iyi uyanma zamanlarını bulmak için hesaplayıcımızı kullanın, uykulu hissetmek yerine.",
+    "question2": "Ne zaman uyumalıyım?",
+    "answer2": "Uyku zamanınız ne zaman uyanmayı planladığınıza bağlıdır. Hesaplayıcıya uyanma zamanınızı girin ve doğal uyku döngülerine dayalı olarak birkaç uyku zamanı önerecektir.",
+    "question3": "Ne kadar uykuya ihtiyacım var hesaplayıcı?",
+    "answer3": "Çoğu yetişkin 7-9 saat uykuya ihtiyaç duyar. Hesaplayıcımız sadece saatler değil uyku döngüleri etrafında planlama yapmanıza yardımcı olur, böylece uykunun doğru aşamasında uyanırsınız.",
+    "question4": "Sabah 10'da uyursam ne zaman uyanırım?",
+    "answer4": "Sabah 10'da uyursanız, hesaplayıcı tam döngülere dayalı en iyi uyanma zamanlarını gösterebilir. Örneğin, 11:45, 13:15, 14:45, ve böyle devam eder.",
+    "question5": "6'da uyanmak için ne zaman uyumalıyım?",
+    "answer5": "Sabah 06:00'da uyanmak için, ideal uyku zamanları önceki gece 20:45, 22:15 veya 23:45 civarında olacaktır. Bu zamanlar tam uyku döngüleri ile uyumludur."
+  },
+  "time": {
+    "am": "AM",
+    "pm": "PM"
+  }
+}
+

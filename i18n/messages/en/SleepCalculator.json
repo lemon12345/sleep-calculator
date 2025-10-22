@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "title": "Sleep Calculator",
+    "description": "Use our sleep cycle calculator to find your ideal bedtime and wake-up time. Discover recommended sleep by age, optimize your sleep schedule, and wake up feeling refreshed with the perfect sleep duration for every age group.",
+    "wakeUpTimeQuestion": "Enter Your Desired Wake-Up Time",
+    "bedTimeQuestion": "Going to Bed Now?",
+    "calculateBedtime": "Calculate Ideal Bedtime",
+    "calculateWakeUp": "Calculate Optimal Wake-Up Time",
+    "bedtimeTitle": "Bedtime",
+    "wakeupTitle": "Wake-up Time",
+    "fallAsleepTime": "The average human takes 15 minutes to fall asleep.",
+    "bedtimeResult": "To wake up refreshed at {time}, you need go to sleep at one of the following times:",
+    "wakeupResult": "If you go to sleep right now, you should try to wake up at one of the following times:",
+    "suggestedTimes": "Suggested",
+    "explanation": "If you wake up at one of these times, you'll rise in between 90-minute sleep cycles. A good night's sleep consists of 5-6 complete sleep cycles.",
+    "goBack": "Go back"
+  },
+  "features": {
+    "title": "Sleep Cycle Calculator: How It Works",
+    "subtitle": "A sleep cycle calculator is a simple formula that helps you plan how much sleep you need to feel refreshed. All you need is your desired wake-up time. Here's how it works:",
+    "cycle90Minutes": "The average sleep cycle lasts about 90 minutes.",
+    "fiveCycles": "A typical night includes 5 full sleep cycles, which equals 7.5 hours of sleep (90 × 5 = 450 minutes).",
+    "countBack": "To find your ideal bedtime, start from your wake-up time and count back 7.5 hours.",
+    "example": "Example: If you need to wake up at 6:00 AM, your ideal bedtime would be around 10:30 PM. This is when you should be in bed, ready to sleep.",
+    "adjustment": "This calculation is a starting point because everyone's sleep cycles can vary slightly. Try this bedtime for a week and adjust as needed:",
+    "tooEarly": "If you wake up too early (more than 5–10 minutes before your alarm), move your bedtime slightly later.",
+    "sleepThrough": "If you still sleep through your alarm after a week, shift your bedtime earlier.",
+    "increments": "Make adjustments in 15-minute increments until you wake naturally just before your alarm.",
+    "optimization": "By following this method, you can optimize your sleep, wake up feeling refreshed, and make the most of your night's rest."
+  },
+  "useCases": {
+    "title": "Recommended Sleep by Age – Sleep Cycle Calculator Insights",
+    "subtitle": "The amount of sleep you need varies depending on several factors, including age, genetics, lifestyle, and daily activity levels. Using a sleep cycle calculator can help you plan your bedtime and wake-up times according to your personal sleep needs.",
+    "authoritiesNote": "Health authorities, such as the American Academy of Sleep Medicine (AASM), provide general sleep guidelines for all age groups based on scientific research and expert knowledge.",
+    "ageGroup": "Age Group",
+    "recommendedSleep": "Recommended Amount of Sleep",
+    "infant": "Infant (4–12 months)",
+    "toddler": "Toddler (1–2 years)",
+    "preschool": "Preschool (3–5 years)",
+    "schoolAge": "School-age (6–12 years)",
+    "teen": "Teen (13–18 years)",
+    "adult": "Adult (18+ years)",
+    "howToUseTitle": "How to Use This With a Sleep Cycle Calculator:",
+    "step1": "Combine your age-specific sleep requirements with a sleep cycle calculator to find your ideal bedtime and wake-up time.",
+    "step2": "Adults should aim for at least 7 hours of sleep, ideally completing full 90-minute sleep cycles.",
+    "step3": "Children and teens need more sleep to support growth, learning, and optimal health, so plan bedtimes accordingly.",
+    "tracking": "Tracking your sleep using this method can help you wake up feeling refreshed and energized, while ensuring sufficient sleep duration by age.",
+    "infantHours": "12–16 hours",
+    "toddlerHours": "11–14 hours", 
+    "preschoolHours": "10–13 hours",
+    "schoolAgeHours": "9–12 hours",
+    "teenHours": "8–10 hours",
+    "adultHours": "At least 7 hours"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to common questions about using our sleep calculator for various purposes.",
+    "question1": "What time should I wake up?",
+    "answer1": "You should aim to wake up at the end of a 90-minute sleep cycle. Use our calculator to find the best wake-up times so you feel refreshed instead of groggy.",
+    "question2": "What time should I go to bed?",
+    "answer2": "Your bedtime depends on when you plan to wake up. Enter your wake-up time in the calculator, and it will suggest several bedtimes based on natural sleep cycles.",
+    "question3": "How much sleep do I need calculator?",
+    "answer3": "Most adults need 7–9 hours of sleep. Our calculator helps you plan around sleep cycles, not just hours, so you wake up at the right stage of sleep.",
+    "question4": "If I go to sleep at 10 AM what time will I wake up?",
+    "answer4": "If you go to sleep at 10 AM, the calculator can show you the best wake-up times based on full cycles. For example, 11:45 AM, 1:15 PM, 2:45 PM, and so on.",
+    "question5": "What time to sleep to wake up at 6?",
+    "answer5": "To wake up at 6 AM, ideal bedtimes are around 8:45 PM, 10:15 PM, or 11:45 PM the night before. These times align with complete sleep cycles."
+  },
+  "time": {
+    "am": "AM",
+    "pm": "PM"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "LanguageDetection": {
+    "title": "Language Suggestion",
+    "description": "We noticed your browser language differs from the current site language. You can switch languages anytime 👉",
+    "countdown": "Closing in {countdown} seconds"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} All rights reserved.",
+    "PrivacyPolicy": "Privacy Policy",
+    "TermsOfService": "Terms of Service",
+    "Links": {
+      "groups": [
+        {
+          "title": "Products",
+          "links": [
+            {
+              "href": "/",
+              "name": "Sleep Calculator"
+            }
+          ]
+        },
+        {
+          "title": "Support",
+          "links": [
+            {
+              "href": "mailto:hi@calculatorsleep.org",
+              "name": "Contact Us"
+            }
+          ]
+        },
+        {
+          "title": "Languages",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/ko",
+              "name": "한국어",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ms",
+              "name": "Bahasa Melayu",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            },
+            
+             {"href": "/ru",
+              "name": "Русский",
+              "useA": true
+            },{"href": "/ar",
+              "name": "العربية",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Calculateur de Sommeil",
+    "tagLine": "Calculateur Professionnel de Cycles de Sommeil pour Tous les Besoins",
+    "description": "Calculateur complet de cycles de sommeil - calculateur d'heure de coucher idéale, calculateur d'heure de réveil, durée de sommeil par âge et outils d'optimisation du sommeil. Parfait pour une meilleure qualité de sommeil, l'optimisation du planning de sommeil et des habitudes de sommeil saines.",
+    "pageData": {
+      "tagLine": "Calculateur Professionnel de Cycles de Sommeil pour Tous les Besoins",
+      "description": "Calculateur complet de cycles de sommeil - calculateur d'heure de coucher idéale, calculateur d'heure de réveil, durée de sommeil par âge et outils d'optimisation du sommeil. Parfait pour une meilleure qualité de sommeil, l'optimisation du planning de sommeil et des habitudes de sommeil saines."
+    }
+  },
+  "Blogs": {
+    "title": "Blog du Calculateur de Sommeil",
+    "description": "Découvrez les dernières fonctionnalités, conseils et mises à jour sur le Calculateur de Sommeil - votre plateforme ultime d'optimisation du sommeil.",
+    "emptyState": {
+      "title": "Aucun article de blog",
+      "description": "Nous créons du contenu passionnant sur l'optimisation du sommeil, restez à l'écoute !"
+    },
+    "loadMorePostsFailed": "Échec du chargement d'autres articles",
+    "loadMorePosts": "Chargement d'autres articles...",
+    "filterPostsFailed": "Échec du chargement des articles",
+    "noPostsFoundForThisTag": "Aucun article trouvé pour cette catégorie",
+    "reachedTheEnd": "Vous avez atteint la fin de tous les articles",
+    "BlogDetail": {
+      "featured": "Article en Vedette",
+      "accessRestricted": "Accès Restreint",
+      "unauthorized": "Cet article n'est disponible que pour les utilisateurs connectés",
+      "premium": "Contenu Premium",
+      "premiumContent": "Cet article est exclusif aux abonnés",
+      "signIn": "Se Connecter",
+      "upgrade": "Mettre à Niveau",
+      "backToBlogs": "Retour à la Liste des Blogs",
+      "notFound": "Article Non Trouvé"
+    }
+  },
+  "TermsOfService": {
+    "title": "Terms of Service",
+    "description": "Terms of Service"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "description": "Privacy Policy"
+  }
+}
