@@ -1,7 +1,7 @@
 import { pacifico } from "@/app/fonts";
 import HeaderLinks from "@/components/header/HeaderLinks";
 import MobileMenu from "@/components/header/MobileMenu";
-import HorizontalLocaleSwitcher from "@/components/HorizontalLocaleSwitcher";
+import LocaleSwitcher from "@/components/LocaleSwitcher";
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { Link as I18nLink } from "@/i18n/routing";
 import { cn } from "@/lib/utils";
@@ -31,7 +31,7 @@ const Header = () => {
         <div className="flex items-center gap-x-2 md:gap-x-4 lg:gap-x-6 flex-1 justify-end">
           {/* PC */}
           <div className="hidden md:flex items-center gap-x-4">
-            <HorizontalLocaleSwitcher />
+            <LocaleSwitcher />
             <ThemeToggle />
           </div>
 
