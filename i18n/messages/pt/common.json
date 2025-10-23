@@ -1,38 +1,38 @@
 {
   "LanguageDetection": {
-    "title": "Language Suggestion",
-    "description": "We noticed your browser language differs from the current site language. You can switch languages anytime 👉",
-    "countdown": "Closing in {countdown} seconds"
+    "title": "Sugestão de Idioma",
+    "description": "Notamos que o idioma do seu navegador difere do idioma atual do site. Você pode mudar de idioma a qualquer momento 👉",
+    "countdown": "Fechando em {countdown} segundos"
   },
   "Header": {
     "links": []
   },
   "Footer": {
-    "Copyright": "Copyright © {year} {name} All rights reserved.",
-    "PrivacyPolicy": "Privacy Policy",
-    "TermsOfService": "Terms of Service",
+    "Copyright": "Copyright © {year} {name} Todos os direitos reservados.",
+    "PrivacyPolicy": "Política de Privacidade",
+    "TermsOfService": "Termos de Serviço",
     "Links": {
       "groups": [
         {
-          "title": "Products",
+          "title": "Produtos",
           "links": [
             {
               "href": "/",
-              "name": "Sleep Calculator"
+              "name": "Calculadora de Sono"
             }
           ]
         },
         {
-          "title": "Support",
+          "title": "Suporte",
           "links": [
             {
               "href": "mailto:hi@calculatorsleep.org",
-              "name": "Contact Us"
+              "name": "Contate-nos"
             }
           ]
         },
         {
-          "title": "Languages",
+          "title": "Idiomas",
           "links": [
             {
               "href": "/",
@@ -99,11 +99,13 @@
               "name": "Türkçe",
               "useA": true
             },
-            
-             {"href": "/ru",
+            {
+              "href": "/ru",
               "name": "Русский",
               "useA": true
-            },{"href": "/ar",
+            },
+            {
+              "href": "/ar",
               "name": "العربية",
               "useA": true
             }
@@ -113,44 +115,44 @@
     }
   },
   "Home": {
-    "title": "Pink Screen",
-    "tagLine": "Professional Screen Tools for Every Need",
-    "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects.",
+    "title": "Calculadora de Sono",
+    "tagLine": "Calculadora Profissional de Ciclo de Sono para Todas as Necessidades",
+    "description": "Calculadora completa de ciclo de sono - calculadora de horário ideal para dormir, calculadora de horário de despertar, duração do sono por idade e ferramentas de otimização do sono. Perfeito para melhor qualidade do sono, otimização de horários e hábitos saudáveis de sono.",
     "pageData": {
-      "tagLine": "Professional Screen Tools for Every Need",
-      "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects."
+      "tagLine": "Calculadora Profissional de Ciclo de Sono para Todas as Necessidades",
+      "description": "Calculadora completa de ciclo de sono - calculadora de horário ideal para dormir, calculadora de horário de despertar, duração do sono por idade e ferramentas de otimização do sono. Perfeito para melhor qualidade do sono, otimização de horários e hábitos saudáveis de sono."
     }
   },
   "Blogs": {
-    "title": "Pink Screen Blog",
-    "description": "Discover the latest features, tips, and updates about Pink Screen - your ultimate screen experience platform.",
+    "title": "Blog da Calculadora de Sono",
+    "description": "Descubra os recursos mais recentes, dicas e atualizações sobre a Calculadora de Sono - sua plataforma definitiva de otimização do sono.",
     "emptyState": {
-      "title": "No blog posts",
-      "description": "We are creating exciting content, please stay tuned!"
+      "title": "Nenhuma postagem no blog",
+      "description": "Estamos criando conteúdo emocionante sobre otimização do sono, fique atento!"
     },
-    "loadMorePostsFailed": "Failed to load more posts",
-    "loadMorePosts": "Loading more posts...",
-    "filterPostsFailed": "Failed to load posts",
-    "noPostsFoundForThisTag": "No articles found for this category",
-    "reachedTheEnd": "You've reached the end of all posts",
+    "loadMorePostsFailed": "Falha ao carregar mais postagens",
+    "loadMorePosts": "Carregando mais postagens...",
+    "filterPostsFailed": "Falha ao carregar postagens",
+    "noPostsFoundForThisTag": "Nenhum artigo encontrado para esta categoria",
+    "reachedTheEnd": "Você chegou ao final de todas as postagens",
     "BlogDetail": {
-      "featured": "Featured Post",
-      "accessRestricted": "Access Restricted",
-      "unauthorized": "This article is only available to logged-in users",
-      "premium": "Premium Content",
-      "premiumContent": "This article is exclusive to subscribers",
-      "signIn": "Sign In",
-      "upgrade": "Upgrade",
-      "backToBlogs": "Back to Blog List",
-      "notFound": "Article Not Found"
+      "featured": "Postagem em Destaque",
+      "accessRestricted": "Acesso Restrito",
+      "unauthorized": "Este artigo está disponível apenas para usuários logados",
+      "premium": "Conteúdo Premium",
+      "premiumContent": "Este artigo é exclusivo para assinantes",
+      "signIn": "Entrar",
+      "upgrade": "Atualizar",
+      "backToBlogs": "Voltar à Lista do Blog",
+      "notFound": "Artigo Não Encontrado"
     }
   },
   "TermsOfService": {
-    "title": "Terms of Service",
-    "description": "Terms of Service"
+    "title": "Termos de Serviço",
+    "description": "Termos de Serviço"
   },
   "PrivacyPolicy": {
-    "title": "Privacy Policy",
-    "description": "Privacy Policy"
+    "title": "Política de Privacidade",
+    "description": "Política de Privacidade"
   }
 }

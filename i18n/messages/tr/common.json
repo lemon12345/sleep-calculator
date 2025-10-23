@@ -113,44 +113,44 @@
     }
   },
   "Home": {
-    "title": "Pink Screen",
-    "tagLine": "Professional Screen Tools for Every Need",
-    "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects.",
+    "title": "Uyku Hesaplayıcısı",
+    "tagLine": "Her İhtiyaç İçin Profesyonel Uyku Döngüsü Hesaplayıcısı",
+    "description": "Eksiksiz uyku döngüsü hesaplayıcısı - ideal uyku saati hesaplayıcısı, uyanma saati hesaplayıcısı, yaşa göre uyku süresi ve uyku optimizasyon araçları. Daha iyi uyku kalitesi, uyku programı optimizasyonu ve sağlıklı uyku alışkanlıkları için mükemmel.",
     "pageData": {
-      "tagLine": "Professional Screen Tools for Every Need",
-      "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects."
+      "tagLine": "Her İhtiyaç İçin Profesyonel Uyku Döngüsü Hesaplayıcısı",
+      "description": "Eksiksiz uyku döngüsü hesaplayıcısı - ideal uyku saati hesaplayıcısı, uyanma saati hesaplayıcısı, yaşa göre uyku süresi ve uyku optimizasyon araçları. Daha iyi uyku kalitesi, uyku programı optimizasyonu ve sağlıklı uyku alışkanlıkları için mükemmel."
     }
   },
   "Blogs": {
-    "title": "Pink Screen Blog",
-    "description": "Discover the latest features, tips, and updates about Pink Screen - your ultimate screen experience platform.",
+    "title": "Uyku Hesaplayıcısı Blogu",
+    "description": "Uyku Hesaplayıcısı hakkındaki en son özellikleri, ipuçlarını ve güncellemeleri keşfedin - nihai uyku optimizasyon platformunuz.",
     "emptyState": {
-      "title": "No blog posts",
-      "description": "We are creating exciting content, please stay tuned!"
+      "title": "Blog yazısı yok",
+      "description": "Uyku optimizasyonu hakkında heyecan verici içerikler oluşturuyoruz, takipte kalın!"
     },
-    "loadMorePostsFailed": "Failed to load more posts",
-    "loadMorePosts": "Loading more posts...",
-    "filterPostsFailed": "Failed to load posts",
-    "noPostsFoundForThisTag": "No articles found for this category",
-    "reachedTheEnd": "You've reached the end of all posts",
+    "loadMorePostsFailed": "Daha fazla gönderi yüklenemedi",
+    "loadMorePosts": "Daha fazla gönderi yükleniyor...",
+    "filterPostsFailed": "Gönderiler yüklenemedi",
+    "noPostsFoundForThisTag": "Bu kategori için makale bulunamadı",
+    "reachedTheEnd": "Tüm gönderilerin sonuna ulaştınız",
     "BlogDetail": {
-      "featured": "Featured Post",
-      "accessRestricted": "Access Restricted",
-      "unauthorized": "This article is only available to logged-in users",
-      "premium": "Premium Content",
-      "premiumContent": "This article is exclusive to subscribers",
-      "signIn": "Sign In",
-      "upgrade": "Upgrade",
-      "backToBlogs": "Back to Blog List",
-      "notFound": "Article Not Found"
+      "featured": "Öne Çıkan Gönderi",
+      "accessRestricted": "Erişim Kısıtlı",
+      "unauthorized": "Bu makale yalnızca giriş yapmış kullanıcılar için kullanılabilir",
+      "premium": "Premium İçerik",
+      "premiumContent": "Bu makale abonelere özeldir",
+      "signIn": "Giriş Yap",
+      "upgrade": "Yükselt",
+      "backToBlogs": "Blog Listesine Dön",
+      "notFound": "Makale Bulunamadı"
     }
   },
   "TermsOfService": {
-    "title": "Terms of Service",
-    "description": "Terms of Service"
+    "title": "Hizmet Şartları",
+    "description": "Hizmet Şartları"
   },
   "PrivacyPolicy": {
-    "title": "Privacy Policy",
-    "description": "Privacy Policy"
+    "title": "Gizlilik Politikası",
+    "description": "Gizlilik Politikası"
   }
 }

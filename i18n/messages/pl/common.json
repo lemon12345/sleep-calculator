@@ -1,38 +1,38 @@
 {
   "LanguageDetection": {
-    "title": "Language Suggestion",
-    "description": "We noticed your browser language differs from the current site language. You can switch languages anytime 👉",
-    "countdown": "Closing in {countdown} seconds"
+    "title": "Sugestia Języka",
+    "description": "Zauważyliśmy, że język Twojej przeglądarki różni się od obecnego języka witryny. Możesz zmienić język w dowolnym momencie 👉",
+    "countdown": "Zamknięcie za {countdown} sekund"
   },
   "Header": {
     "links": []
   },
   "Footer": {
-    "Copyright": "Copyright © {year} {name} All rights reserved.",
-    "PrivacyPolicy": "Privacy Policy",
-    "TermsOfService": "Terms of Service",
+    "Copyright": "Copyright © {year} {name} Wszelkie prawa zastrzeżone.",
+    "PrivacyPolicy": "Polityka Prywatności",
+    "TermsOfService": "Warunki Usługi",
     "Links": {
       "groups": [
         {
-          "title": "Products",
+          "title": "Produkty",
           "links": [
             {
               "href": "/",
-              "name": "Sleep Calculator"
+              "name": "Kalkulator Snu"
             }
           ]
         },
         {
-          "title": "Support",
+          "title": "Wsparcie",
           "links": [
             {
               "href": "mailto:hi@calculatorsleep.org",
-              "name": "Contact Us"
+              "name": "Skontaktuj się z nami"
             }
           ]
         },
         {
-          "title": "Languages",
+          "title": "Języki",
           "links": [
             {
               "href": "/",
@@ -99,11 +99,13 @@
               "name": "Türkçe",
               "useA": true
             },
-            
-             {"href": "/ru",
+            {
+              "href": "/ru",
               "name": "Русский",
               "useA": true
-            },{"href": "/ar",
+            },
+            {
+              "href": "/ar",
               "name": "العربية",
               "useA": true
             }
@@ -113,44 +115,44 @@
     }
   },
   "Home": {
-    "title": "Pink Screen",
-    "tagLine": "Professional Screen Tools for Every Need",
-    "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects.",
+    "title": "Kalkulator Snu",
+    "tagLine": "Profesjonalny Kalkulator Cyklu Snu dla Każdej Potrzeby",
+    "description": "Kompletny kalkulator cyklu snu - kalkulator idealnego czasu snu, kalkulator czasu budzenia, czas trwania snu według wieku i narzędzia optymalizacji snu. Idealny do lepszej jakości snu, optymalizacji harmonogramu snu i zdrowych nawyków snu.",
     "pageData": {
-      "tagLine": "Professional Screen Tools for Every Need",
-      "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects."
+      "tagLine": "Profesjonalny Kalkulator Cyklu Snu dla Każdej Potrzeby",
+      "description": "Kompletny kalkulator cyklu snu - kalkulator idealnego czasu snu, kalkulator czasu budzenia, czas trwania snu według wieku i narzędzia optymalizacji snu. Idealny do lepszej jakości snu, optymalizacji harmonogramu snu i zdrowych nawyków snu."
     }
   },
   "Blogs": {
-    "title": "Pink Screen Blog",
-    "description": "Discover the latest features, tips, and updates about Pink Screen - your ultimate screen experience platform.",
+    "title": "Blog Kalkulatora Snu",
+    "description": "Odkryj najnowsze funkcje, wskazówki i aktualizacje dotyczące Kalkulatora Snu - Twojej ostatecznej platformy optymalizacji snu.",
     "emptyState": {
-      "title": "No blog posts",
-      "description": "We are creating exciting content, please stay tuned!"
+      "title": "Brak postów na blogu",
+      "description": "Tworzymy ekscytujące treści o optymalizacji snu, bądźcie czujni!"
     },
-    "loadMorePostsFailed": "Failed to load more posts",
-    "loadMorePosts": "Loading more posts...",
-    "filterPostsFailed": "Failed to load posts",
-    "noPostsFoundForThisTag": "No articles found for this category",
-    "reachedTheEnd": "You've reached the end of all posts",
+    "loadMorePostsFailed": "Nie udało się załadować więcej postów",
+    "loadMorePosts": "Ładowanie więcej postów...",
+    "filterPostsFailed": "Nie udało się załadować postów",
+    "noPostsFoundForThisTag": "Nie znaleziono artykułów dla tej kategorii",
+    "reachedTheEnd": "Dotarłeś do końca wszystkich postów",
     "BlogDetail": {
-      "featured": "Featured Post",
-      "accessRestricted": "Access Restricted",
-      "unauthorized": "This article is only available to logged-in users",
-      "premium": "Premium Content",
-      "premiumContent": "This article is exclusive to subscribers",
-      "signIn": "Sign In",
-      "upgrade": "Upgrade",
-      "backToBlogs": "Back to Blog List",
-      "notFound": "Article Not Found"
+      "featured": "Wyróżniony Post",
+      "accessRestricted": "Ograniczony Dostęp",
+      "unauthorized": "Ten artykuł jest dostępny tylko dla zalogowanych użytkowników",
+      "premium": "Treść Premium",
+      "premiumContent": "Ten artykuł jest ekskluzywny dla subskrybentów",
+      "signIn": "Zaloguj się",
+      "upgrade": "Aktualizuj",
+      "backToBlogs": "Powrót do Listy Blogów",
+      "notFound": "Artykuł Nie Znaleziony"
     }
   },
   "TermsOfService": {
-    "title": "Terms of Service",
-    "description": "Terms of Service"
+    "title": "Warunki Usługi",
+    "description": "Warunki Usługi"
   },
   "PrivacyPolicy": {
-    "title": "Privacy Policy",
-    "description": "Privacy Policy"
+    "title": "Polityka Prywatności",
+    "description": "Polityka Prywatności"
   }
 }

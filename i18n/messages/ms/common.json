@@ -113,44 +113,44 @@
     }
   },
   "Home": {
-    "title": "Pink Screen",
-    "tagLine": "Professional Screen Tools for Every Need",
-    "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects.",
+    "title": "Kalkulator Tidur",
+    "tagLine": "Kalkulator Kitaran Tidur Profesional untuk Setiap Keperluan",
+    "description": "Kalkulator kitaran tidur lengkap - kalkulator waktu tidur ideal, kalkulator waktu bangun, tempoh tidur mengikut umur dan alat pengoptimuman tidur. Sempurna untuk kualiti tidur yang lebih baik, pengoptimuman jadual tidur dan tabiat tidur yang sihat.",
     "pageData": {
-      "tagLine": "Professional Screen Tools for Every Need",
-      "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects."
+      "tagLine": "Kalkulator Kitaran Tidur Profesional untuk Setiap Keperluan",
+      "description": "Kalkulator kitaran tidur lengkap - kalkulator waktu tidur ideal, kalkulator waktu bangun, tempoh tidur mengikut umur dan alat pengoptimuman tidur. Sempurna untuk kualiti tidur yang lebih baik, pengoptimuman jadual tidur dan tabiat tidur yang sihat."
     }
   },
   "Blogs": {
-    "title": "Pink Screen Blog",
-    "description": "Discover the latest features, tips, and updates about Pink Screen - your ultimate screen experience platform.",
+    "title": "Blog Kalkulator Tidur",
+    "description": "Temui ciri terkini, petua dan kemas kini tentang Kalkulator Tidur - platform pengoptimuman tidur muktamad anda.",
     "emptyState": {
-      "title": "No blog posts",
-      "description": "We are creating exciting content, please stay tuned!"
+      "title": "Tiada siaran blog",
+      "description": "Kami sedang mencipta kandungan menarik tentang pengoptimuman tidur, tunggu!"
     },
-    "loadMorePostsFailed": "Failed to load more posts",
-    "loadMorePosts": "Loading more posts...",
-    "filterPostsFailed": "Failed to load posts",
-    "noPostsFoundForThisTag": "No articles found for this category",
-    "reachedTheEnd": "You've reached the end of all posts",
+    "loadMorePostsFailed": "Gagal memuatkan lebih banyak siaran",
+    "loadMorePosts": "Memuatkan lebih banyak siaran...",
+    "filterPostsFailed": "Gagal memuatkan siaran",
+    "noPostsFoundForThisTag": "Tiada artikel ditemui untuk kategori ini",
+    "reachedTheEnd": "Anda telah sampai ke penghujung semua siaran",
     "BlogDetail": {
-      "featured": "Featured Post",
-      "accessRestricted": "Access Restricted",
-      "unauthorized": "This article is only available to logged-in users",
-      "premium": "Premium Content",
-      "premiumContent": "This article is exclusive to subscribers",
-      "signIn": "Sign In",
-      "upgrade": "Upgrade",
-      "backToBlogs": "Back to Blog List",
-      "notFound": "Article Not Found"
+      "featured": "Siaran Pilihan",
+      "accessRestricted": "Akses Terhad",
+      "unauthorized": "Artikel ini hanya tersedia untuk pengguna yang log masuk",
+      "premium": "Kandungan Premium",
+      "premiumContent": "Artikel ini eksklusif untuk pelanggan",
+      "signIn": "Log Masuk",
+      "upgrade": "Naik Taraf",
+      "backToBlogs": "Kembali ke Senarai Blog",
+      "notFound": "Artikel Tidak Ditemui"
     }
   },
   "TermsOfService": {
-    "title": "Terms of Service",
-    "description": "Terms of Service"
+    "title": "Terma Perkhidmatan",
+    "description": "Terma Perkhidmatan"
   },
   "PrivacyPolicy": {
-    "title": "Privacy Policy",
-    "description": "Privacy Policy"
+    "title": "Dasar Privasi",
+    "description": "Dasar Privasi"
   }
 }

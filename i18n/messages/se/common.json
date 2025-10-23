@@ -113,44 +113,44 @@
     }
   },
   "Home": {
-    "title": "Pink Screen",
-    "tagLine": "Professional Screen Tools for Every Need",
-    "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects.",
+    "title": "Sömnkalkylator",
+    "tagLine": "Professionell Sömncykelkalkylator för Alla Behov",
+    "description": "Komplett sömncykelkalkylator - ideal sänggångstidskalkylator, uppvakningstidskalkylator, sömnvaraktighet efter ålder och sömnoptimeringsverktyg. Perfekt för bättre sömnkvalitet, optimering av sömnschema och hälsosamma sömn vanor.",
     "pageData": {
-      "tagLine": "Professional Screen Tools for Every Need",
-      "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects."
+      "tagLine": "Professionell Sömncykelkalkylator för Alla Behov",
+      "description": "Komplett sömncykelkalkylator - ideal sänggångstidskalkylator, uppvakningstidskalkylator, sömnvaraktighet efter ålder och sömnoptimeringsverktyg. Perfekt för bättre sömnkvalitet, optimering av sömnschema och hälsosamma sömnvanor."
     }
   },
   "Blogs": {
-    "title": "Pink Screen Blog",
-    "description": "Discover the latest features, tips, and updates about Pink Screen - your ultimate screen experience platform.",
+    "title": "Sömnkalkylator Blogg",
+    "description": "Upptäck de senaste funktionerna, tips och uppdateringar om Sömnkalkylator - din ultimata plattform för sömnoptimering.",
     "emptyState": {
-      "title": "No blog posts",
-      "description": "We are creating exciting content, please stay tuned!"
+      "title": "Inga blogginlägg",
+      "description": "Vi skapar spännande innehåll om sömnoptimering, håll utkik!"
     },
-    "loadMorePostsFailed": "Failed to load more posts",
-    "loadMorePosts": "Loading more posts...",
-    "filterPostsFailed": "Failed to load posts",
-    "noPostsFoundForThisTag": "No articles found for this category",
-    "reachedTheEnd": "You've reached the end of all posts",
+    "loadMorePostsFailed": "Det gick inte att ladda fler inlägg",
+    "loadMorePosts": "Laddar fler inlägg...",
+    "filterPostsFailed": "Det gick inte att ladda inlägg",
+    "noPostsFoundForThisTag": "Inga artiklar hittades för denna kategori",
+    "reachedTheEnd": "Du har nått slutet på alla inlägg",
     "BlogDetail": {
-      "featured": "Featured Post",
-      "accessRestricted": "Access Restricted",
-      "unauthorized": "This article is only available to logged-in users",
-      "premium": "Premium Content",
-      "premiumContent": "This article is exclusive to subscribers",
-      "signIn": "Sign In",
-      "upgrade": "Upgrade",
-      "backToBlogs": "Back to Blog List",
-      "notFound": "Article Not Found"
+      "featured": "Utvalt Inlägg",
+      "accessRestricted": "Begränsad Åtkomst",
+      "unauthorized": "Den här artikeln är endast tillgänglig för inloggade användare",
+      "premium": "Premiuminnehåll",
+      "premiumContent": "Den här artikeln är exklusiv för prenumeranter",
+      "signIn": "Logga in",
+      "upgrade": "Uppgradera",
+      "backToBlogs": "Tillbaka till Blogglistan",
+      "notFound": "Artikel Hittades Inte"
     }
   },
   "TermsOfService": {
-    "title": "Terms of Service",
-    "description": "Terms of Service"
+    "title": "Användarvillkor",
+    "description": "Användarvillkor"
   },
   "PrivacyPolicy": {
-    "title": "Privacy Policy",
-    "description": "Privacy Policy"
+    "title": "Integritetspolicy",
+    "description": "Integritetspolicy"
   }
 }

@@ -1,38 +1,38 @@
 {
   "LanguageDetection": {
-    "title": "Language Suggestion",
-    "description": "We noticed your browser language differs from the current site language. You can switch languages anytime 👉",
-    "countdown": "Closing in {countdown} seconds"
+    "title": "Suggerimento Lingua",
+    "description": "Abbiamo notato che la lingua del tuo browser differisce dalla lingua corrente del sito. Puoi cambiare lingua in qualsiasi momento 👉",
+    "countdown": "Chiusura tra {countdown} secondi"
   },
   "Header": {
     "links": []
   },
   "Footer": {
-    "Copyright": "Copyright © {year} {name} All rights reserved.",
-    "PrivacyPolicy": "Privacy Policy",
-    "TermsOfService": "Terms of Service",
+    "Copyright": "Copyright © {year} {name} Tutti i diritti riservati.",
+    "PrivacyPolicy": "Informativa sulla Privacy",
+    "TermsOfService": "Termini di Servizio",
     "Links": {
       "groups": [
         {
-          "title": "Products",
+          "title": "Prodotti",
           "links": [
             {
               "href": "/",
-              "name": "Sleep Calculator"
+              "name": "Calcolatore del Sonno"
             }
           ]
         },
         {
-          "title": "Support",
+          "title": "Supporto",
           "links": [
             {
               "href": "mailto:hi@calculatorsleep.org",
-              "name": "Contact Us"
+              "name": "Contattaci"
             }
           ]
         },
         {
-          "title": "Languages",
+          "title": "Lingue",
           "links": [
             {
               "href": "/",
@@ -99,11 +99,13 @@
               "name": "Türkçe",
               "useA": true
             },
-            
-             {"href": "/ru",
+            {
+              "href": "/ru",
               "name": "Русский",
               "useA": true
-            },{"href": "/ar",
+            },
+            {
+              "href": "/ar",
               "name": "العربية",
               "useA": true
             }
@@ -113,44 +115,44 @@
     }
   },
   "Home": {
-    "title": "Pink Screen",
-    "tagLine": "Professional Screen Tools for Every Need",
-    "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects.",
+    "title": "Calcolatore del Sonno",
+    "tagLine": "Calcolatore Professionale del Ciclo del Sonno per Ogni Esigenza",
+    "description": "Calcolatore completo del ciclo del sonno - calcolatore dell'ora ideale per andare a letto, calcolatore dell'ora di sveglia, durata del sonno per età e strumenti di ottimizzazione del sonno. Perfetto per una migliore qualità del sonno, ottimizzazione degli orari del sonno e abitudini di sonno sane.",
     "pageData": {
-      "tagLine": "Professional Screen Tools for Every Need",
-      "description": "Complete collection of online screen tools - white screen, colored screens, screensavers, system simulators, and display utilities. Perfect for monitor testing, photography lighting, presentations, streaming, and creative projects."
+      "tagLine": "Calcolatore Professionale del Ciclo del Sonno per Ogni Esigenza",
+      "description": "Calcolatore completo del ciclo del sonno - calcolatore dell'ora ideale per andare a letto, calcolatore dell'ora di sveglia, durata del sonno per età e strumenti di ottimizzazione del sonno. Perfetto per una migliore qualità del sonno, ottimizzazione degli orari del sonno e abitudini di sonno sane."
     }
   },
   "Blogs": {
-    "title": "Pink Screen Blog",
-    "description": "Discover the latest features, tips, and updates about Pink Screen - your ultimate screen experience platform.",
+    "title": "Blog del Calcolatore del Sonno",
+    "description": "Scopri le ultime funzionalità, suggerimenti e aggiornamenti sul Calcolatore del Sonno - la tua piattaforma definitiva per l'ottimizzazione del sonno.",
     "emptyState": {
-      "title": "No blog posts",
-      "description": "We are creating exciting content, please stay tuned!"
+      "title": "Nessun post del blog",
+      "description": "Stiamo creando contenuti entusiasmanti sull'ottimizzazione del sonno, restate sintonizzati!"
     },
-    "loadMorePostsFailed": "Failed to load more posts",
-    "loadMorePosts": "Loading more posts...",
-    "filterPostsFailed": "Failed to load posts",
-    "noPostsFoundForThisTag": "No articles found for this category",
-    "reachedTheEnd": "You've reached the end of all posts",
+    "loadMorePostsFailed": "Impossibile caricare altri post",
+    "loadMorePosts": "Caricamento di altri post...",
+    "filterPostsFailed": "Impossibile caricare i post",
+    "noPostsFoundForThisTag": "Nessun articolo trovato per questa categoria",
+    "reachedTheEnd": "Hai raggiunto la fine di tutti i post",
     "BlogDetail": {
-      "featured": "Featured Post",
-      "accessRestricted": "Access Restricted",
-      "unauthorized": "This article is only available to logged-in users",
-      "premium": "Premium Content",
-      "premiumContent": "This article is exclusive to subscribers",
-      "signIn": "Sign In",
-      "upgrade": "Upgrade",
-      "backToBlogs": "Back to Blog List",
-      "notFound": "Article Not Found"
+      "featured": "Post in Evidenza",
+      "accessRestricted": "Accesso Limitato",
+      "unauthorized": "Questo articolo è disponibile solo per gli utenti registrati",
+      "premium": "Contenuto Premium",
+      "premiumContent": "Questo articolo è esclusivo per gli abbonati",
+      "signIn": "Accedi",
+      "upgrade": "Aggiorna",
+      "backToBlogs": "Torna all'Elenco del Blog",
+      "notFound": "Articolo Non Trovato"
     }
   },
   "TermsOfService": {
-    "title": "Terms of Service",
-    "description": "Terms of Service"
+    "title": "Termini di Servizio",
+    "description": "Termini di Servizio"
   },
   "PrivacyPolicy": {
-    "title": "Privacy Policy",
-    "description": "Privacy Policy"
+    "title": "Informativa sulla Privacy",
+    "description": "Informativa sulla Privacy"
   }
 }
